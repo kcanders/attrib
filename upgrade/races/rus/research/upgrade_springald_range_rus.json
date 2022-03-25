@@ -101,7 +101,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 6
+                  "value": 2
                 },
                 {
                   "key": "id",
@@ -489,7 +489,7 @@
                   "value": [
                     {
                       "key": "float_value",
-                      "value": 1.5
+                      "value": 0.5
                     }
                   ]
                 }

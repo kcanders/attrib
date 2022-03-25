@@ -164,7 +164,7 @@
               "value": [
                 {
                   "key": "name",
-                  "value": "modcount"
+                  "value": "num_mods"
                 },
                 {
                   "key": "enabled",
@@ -189,7 +189,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "and"
+                              "value": "none"
                             },
                             {
                               "key": "$REF",
@@ -215,7 +215,7 @@
                               "value": [
                                 {
                                   "key": "op",
-                                  "value": 4
+                                  "value": 6
                                 },
                                 {
                                   "key": "$REF",
@@ -264,7 +264,7 @@
                                 },
                                 {
                                   "key": "value",
-                                  "value": "modcount"
+                                  "value": "num_mods"
                                 }
                               ]
                             },
@@ -288,23 +288,6 @@
                     {
                       "key": "actions",
                       "value": [
-                        {
-                          "key": "toggle_counter",
-                          "value": [
-                            {
-                              "key": "name",
-                              "value": "modcount"
-                            },
-                            {
-                              "key": "enabled",
-                              "value": false
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\counter_actions\\toggle_counter"
-                            }
-                          ]
-                        },
                         {
                           "key": "complete_challenge",
                           "value": [
