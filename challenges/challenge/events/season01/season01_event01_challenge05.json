@@ -66,64 +66,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "operator",
-                      "value": "in"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "challenges\\requirement"
-                    },
-                    {
-                      "key": "requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "values",
-                      "value": [
-                        {
-                          "key": "result",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\dynamic\\result"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "result",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\constant\\result"
-                            },
-                            {
-                              "key": "value",
-                              "value": 1
-                            }
-                          ]
-                        },
-                        {
-                          "key": "result",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\constant\\result"
-                            },
-                            {
-                              "key": "value",
-                              "value": 0
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
@@ -196,7 +138,7 @@
               "value": [
                 {
                   "key": "name",
-                  "value": "win_game"
+                  "value": "resource_gain"
                 },
                 {
                   "key": "enabled",
@@ -208,7 +150,7 @@
                 },
                 {
                   "key": "tracking_event",
-                  "value": "Win"
+                  "value": "ResourceProduced"
                 },
                 {
                   "key": "trigger_rules",
@@ -221,7 +163,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "in"
+                              "value": "equal"
                             },
                             {
                               "key": "$REF",
@@ -236,50 +178,24 @@
                               "key": "values",
                               "value": [
                                 {
-                                  "key": "winreason",
+                                  "key": "resourcetype",
                                   "value": [
                                     {
                                       "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\winreason"
+                                      "value": "challenges\\requirement_values\\dynamic\\resourcetype"
                                     }
                                   ]
                                 },
                                 {
-                                  "key": "winreason",
+                                  "key": "resourcetype",
                                   "value": [
                                     {
                                       "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\winreason"
+                                      "value": "challenges\\requirement_values\\constant\\resourcetype"
                                     },
                                     {
                                       "key": "value",
-                                      "value": 3
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "winreason",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\winreason"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": 6
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "winreason",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\winreason"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": 4
+                                      "value": "food"
                                     }
                                   ]
                                 }
@@ -291,11 +207,15 @@
                           "key": "actions",
                           "value": [
                             {
-                              "key": "complete_challenge",
+                              "key": "change_counter",
                               "value": [
                                 {
+                                  "key": "op",
+                                  "value": 0
+                                },
+                                {
                                   "key": "$REF",
-                                  "value": "challenges\\counter_actions\\complete_challenge"
+                                  "value": "challenges\\counter_actions\\change_counter"
                                 }
                               ]
                             }
@@ -317,7 +237,7 @@
                       "value": [
                         {
                           "key": "operator",
-                          "value": "none"
+                          "value": "greaterthanequal"
                         },
                         {
                           "key": "$REF",
@@ -331,6 +251,32 @@
                         {
                           "key": "values",
                           "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "resource_gain"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 1000
+                                }
+                              ]
+                            }
                           ]
                         }
                       ]
@@ -338,6 +284,15 @@
                     {
                       "key": "actions",
                       "value": [
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        }
                       ]
                     },
                     {
@@ -352,7 +307,7 @@
         },
         {
           "key": "description",
-          "value": 11222317
+          "value": 11222315
         },
         {
           "key": "completion_count",

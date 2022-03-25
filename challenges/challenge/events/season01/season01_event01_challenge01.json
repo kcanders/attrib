@@ -57,51 +57,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "operator",
-                      "value": "equal"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "challenges\\requirement"
-                    },
-                    {
-                      "key": "requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "values",
-                      "value": [
-                        {
-                          "key": "result",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\dynamic\\result"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "result",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\constant\\result"
-                            },
-                            {
-                              "key": "value",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
@@ -169,6 +124,137 @@
         {
           "key": "counters",
           "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "mission_complete"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Win"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "winreason",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\winreason"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "winreason",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\winreason"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": 10
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "complete_challenge",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\complete_challenge"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
