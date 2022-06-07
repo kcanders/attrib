@@ -226,7 +226,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "weapon_naval_combat_ship_crossbow_second_ballista_eng"
+              "value": "weapon_naval_combat_ship_crossbow_second_ballista"
             },
             {
               "key": "$PBGMAP",

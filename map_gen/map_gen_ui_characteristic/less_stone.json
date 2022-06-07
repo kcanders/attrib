@@ -8,12 +8,40 @@
           "value": 11188584
         },
         {
+          "key": "is_ui_low_resources_filter_entry_dummy",
+          "value": false
+        },
+        {
+          "key": "include_in_low_resources_filter",
+          "value": true
+        },
+        {
+          "key": "use_for_filters",
+          "value": false
+        },
+        {
           "key": "icon",
+          "value": "fe\\map_characteristics\\low_resources_icon"
+        },
+        {
+          "key": "include_in_high_resources_filter",
+          "value": false
+        },
+        {
+          "key": "is_ui_high_resources_filter_entry_dummy",
+          "value": false
+        },
+        {
+          "key": "image",
           "value": "fe\\map_characteristics\\low_resources"
         },
         {
           "key": "description_tooltip",
           "value": 11188583
+        },
+        {
+          "key": "ui_priority",
+          "value": 0
         }
       ]
     },

@@ -480,7 +480,7 @@
             },
             {
               "key": "help_text",
-              "value": 11190200
+              "value": 11226345
             },
             {
               "key": "hotkey_name",
@@ -609,6 +609,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         }
       ]
     },

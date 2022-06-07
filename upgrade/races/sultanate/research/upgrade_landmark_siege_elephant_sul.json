@@ -468,7 +468,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 900
+              "value": 720
             },
             {
               "key": "cost",
@@ -554,6 +554,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_landmark_siege_elephant_sul"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

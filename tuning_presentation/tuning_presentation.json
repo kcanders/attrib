@@ -717,7 +717,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "tt_plains"
+                  "value": "tt_hills_low_rolling"
                 },
                 {
                   "key": "$PBGMAP",
@@ -1008,7 +1008,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "tt_hills_low_rolling"
+                  "value": "tt_plains"
                 },
                 {
                   "key": "$PBGMAP",
@@ -1115,6 +1115,19 @@
                     {
                       "key": "$PBGNAME",
                       "value": "highview"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_layout"
+                    }
+                  ]
+                },
+                {
+                  "key": "layout",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "pit"
                     },
                     {
                       "key": "$PBGMAP",
@@ -80437,6 +80450,19 @@
       ]
     },
     {
+      "key": "modular_hotkeys",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "hotkeys\\modular_hotkeys"
+        }
+      ]
+    },
+    {
       "key": "online_systems",
       "value": [
         {
@@ -80643,6 +80669,10 @@
               "value": false
             },
             {
+              "key": "max_automatch_map_vetos_unranked",
+              "value": 5
+            },
+            {
               "key": "show_start_custom_match_not_all_ready_prompt",
               "value": true
             },
@@ -80667,6 +80697,10 @@
                   "value": "multiplayer\\mp_map_generated_scenario"
                 }
               ]
+            },
+            {
+              "key": "max_automatch_map_vetos_ranked",
+              "value": 3
             },
             {
               "key": "seconds_between_reconnect_messages",

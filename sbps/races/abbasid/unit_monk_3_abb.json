@@ -882,6 +882,10 @@
           ]
         },
         {
+          "key": "attack_move_command_requires_valid_range",
+          "value": false
+        },
+        {
           "key": "reaction_combat_delay_seconds",
           "value": 30
         },

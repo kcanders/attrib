@@ -259,7 +259,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": ""
+                  "value": "upgrade_entity_dynasty_3_chi\\Master"
                 },
                 {
                   "key": "$REF",
@@ -524,6 +524,22 @@
             {
               "key": "apply_to_unit_classes",
               "value": [
+                {
+                  "key": "unit_class",
+                  "value": "infantry"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "cavalry"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "naval_unit"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "siege"
+                }
               ]
             }
           ]
@@ -531,6 +547,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         }
       ]
     },

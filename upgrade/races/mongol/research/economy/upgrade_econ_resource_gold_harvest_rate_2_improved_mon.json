@@ -660,12 +660,12 @@
                   "key": "formatter_arguments",
                   "value": [
                     {
-                      "key": "int_value",
-                      "value": 20
+                      "key": "float_value",
+                      "value": 22.5
                     },
                     {
-                      "key": "int_value",
-                      "value": 5
+                      "key": "float_value",
+                      "value": 7.5
                     }
                   ]
                 }
@@ -781,6 +781,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_mining_gather_technology_mon"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

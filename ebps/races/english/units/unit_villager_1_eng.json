@@ -1263,6 +1263,10 @@
           "value": 2
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1331,6 +1335,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1421,6 +1429,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "squad_select"
         },
@@ -1476,6 +1488,23 @@
         {
           "key": "map_mark",
           "value": ""
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1787,7 +1816,7 @@
                 },
                 {
                   "key": "search_radius",
-                  "value": 30
+                  "value": 20
                 }
               ]
             },
@@ -1834,52 +1863,6 @@
                 {
                   "key": "search_radius",
                   "value": 25
-                }
-              ]
-            },
-            {
-              "key": "gather_target",
-              "value": [
-                {
-                  "key": "allow_auto_gather",
-                  "value": true
-                },
-                {
-                  "key": "resource_gather_job",
-                  "value": "gather_berries"
-                },
-                {
-                  "key": "allow_auto_work_to_enable",
-                  "value": true
-                },
-                {
-                  "key": "resource_sub_type",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "forage_bush"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "resource_sub_type"
-                    }
-                  ]
-                },
-                {
-                  "key": "gather_rate",
-                  "value": 0.66
-                },
-                {
-                  "key": "prioritize_drop_off_pos_over_entity_pos",
-                  "value": false
-                },
-                {
-                  "key": "resource_carry_capacity",
-                  "value": 10
-                },
-                {
-                  "key": "search_radius",
-                  "value": 30
                 }
               ]
             },
@@ -2063,7 +2046,7 @@
                 },
                 {
                   "key": "search_radius",
-                  "value": 30
+                  "value": 15
                 }
               ]
             },
@@ -2109,7 +2092,7 @@
                 },
                 {
                   "key": "search_radius",
-                  "value": 30
+                  "value": 15
                 }
               ]
             },
@@ -2156,6 +2139,52 @@
                 {
                   "key": "search_radius",
                   "value": 30
+                }
+              ]
+            },
+            {
+              "key": "gather_target",
+              "value": [
+                {
+                  "key": "allow_auto_gather",
+                  "value": true
+                },
+                {
+                  "key": "resource_gather_job",
+                  "value": "gather_berries"
+                },
+                {
+                  "key": "allow_auto_work_to_enable",
+                  "value": true
+                },
+                {
+                  "key": "resource_sub_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "forage_bush"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "resource_sub_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "gather_rate",
+                  "value": 0.66
+                },
+                {
+                  "key": "prioritize_drop_off_pos_over_entity_pos",
+                  "value": false
+                },
+                {
+                  "key": "resource_carry_capacity",
+                  "value": 10
+                },
+                {
+                  "key": "search_radius",
+                  "value": 15
                 }
               ]
             }
@@ -3607,7 +3636,7 @@
         },
         {
           "key": "default_animation",
-          "value": ""
+          "value": "navigation\\idles\\idle_calm"
         },
         {
           "key": "entity_statetree_sort_tag",

@@ -1724,11 +1724,28 @@
                   "value": [
                     {
                       "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227186
+                    },
+                    {
+                      "key": "title",
+                      "value": 11197922
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
                       "value": "races\\civ_info_icon-2"
                     },
                     {
                       "key": "description",
-                      "value": 11155022
+                      "value": 11227173
                     },
                     {
                       "key": "title",
@@ -1741,7 +1758,7 @@
                   "value": [
                     {
                       "key": "image",
-                      "value": ""
+                      "value": "races\\civ_info_icon-2"
                     },
                     {
                       "key": "description",
@@ -1762,7 +1779,41 @@
                     },
                     {
                       "key": "description",
-                      "value": 11155026
+                      "value": 11227184
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227185
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227175
+                    },
+                    {
+                      "key": "title",
+                      "value": 11164788
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227176
                     },
                     {
                       "key": "title",
@@ -1779,28 +1830,11 @@
                     },
                     {
                       "key": "description",
-                      "value": 11217647
+                      "value": 11227178
                     },
                     {
                       "key": "title",
-                      "value": 11197922
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
-                      "value": "races\\civ_info_icon-2"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11164789
-                    },
-                    {
-                      "key": "title",
-                      "value": 11164788
+                      "value": 11227177
                     }
                   ]
                 },
@@ -1813,7 +1847,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11217645
+                      "value": 11227180
                     },
                     {
                       "key": "title",
@@ -1830,7 +1864,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11197925
+                      "value": 11227181
                     },
                     {
                       "key": "title",

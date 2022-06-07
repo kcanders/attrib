@@ -972,6 +972,10 @@
             {
               "key": "unit_type",
               "value": "annihilation_condition"
+            },
+            {
+              "key": "unit_type",
+              "value": "included_by_military_hotkeys"
             }
           ]
         },
@@ -1327,6 +1331,10 @@
           "value": 2
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1395,6 +1403,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1485,6 +1497,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "squad_select"
         },
@@ -1540,6 +1556,23 @@
         {
           "key": "map_mark",
           "value": ""
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -2088,6 +2121,276 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
+                                  "value": "weapon_manatarms_2_1handmace_hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "weapon"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "non_entity_weapon_wrapper"
+                            },
+                            {
+                              "key": "animator_attachments",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_melee_manatarms_2_1handmace_hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "attachments\\attachment_lists"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "non_entity_weapon_wrapper_pbg",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "weapon_manatarms_2_2handaxe_hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "weapon"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "non_entity_weapon_wrapper"
+                            },
+                            {
+                              "key": "animator_attachments",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_melee_manatarms_2_2handaxe_hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "attachments\\attachment_lists"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "non_entity_weapon_wrapper_pbg",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "weapon_manatarms_2_2handmace_hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "weapon"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "non_entity_weapon_wrapper"
+                            },
+                            {
+                              "key": "animator_attachments",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_melee_manatarms_2_2handmace_hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "attachments\\attachment_lists"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "non_entity_weapon_wrapper_pbg",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
                                   "value": "weapon_torch"
                                 },
                                 {
@@ -2268,96 +2571,6 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "weapon_manatarms_2_1handmace_hre"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "weapon"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "non_entity_weapon_wrapper"
-                            },
-                            {
-                              "key": "animator_attachments",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "wpn_melee_manatarms_2_1handmace_hre"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "attachments\\attachment_lists"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "marker_name_parent",
-                              "value": "MetaRig_RArmPalmSocket"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0.5
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 0
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "length",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": ""
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "non_entity_weapon_wrapper_pbg",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
                                   "value": "weapon_manatarms_2_1handmace_charge_hre"
                                 },
                                 {
@@ -2448,96 +2661,6 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "weapon_manatarms_2_2handaxe_hre"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "weapon"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "non_entity_weapon_wrapper"
-                            },
-                            {
-                              "key": "animator_attachments",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "wpn_melee_manatarms_2_2handaxe_hre"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "attachments\\attachment_lists"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "marker_name_parent",
-                              "value": "MetaRig_RArmPalmSocket"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0.5
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 0
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "length",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": ""
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "non_entity_weapon_wrapper_pbg",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
                                   "value": "weapon_manatarms_2_2handaxe_charge_hre"
                                 },
                                 {
@@ -2556,96 +2679,6 @@
                                 {
                                   "key": "$PBGNAME",
                                   "value": "wpn_melee_manatarms_2_2handaxe_hre"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "attachments\\attachment_lists"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "marker_name_parent",
-                              "value": "MetaRig_RArmPalmSocket"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0.5
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 0
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "length",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": ""
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "non_entity_weapon_wrapper_pbg",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "weapon_manatarms_2_2handmace_hre"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "weapon"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "non_entity_weapon_wrapper"
-                            },
-                            {
-                              "key": "animator_attachments",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "wpn_melee_manatarms_2_2handmace_hre"
                                 },
                                 {
                                   "key": "$PBGMAP",

@@ -1024,7 +1024,7 @@
                     },
                     {
                       "key": "distance",
-                      "value": 68
+                      "value": 81
                     }
                   ]
                 },
@@ -1112,7 +1112,7 @@
                     },
                     {
                       "key": "pitch_max",
-                      "value": 45
+                      "value": 55
                     },
                     {
                       "key": "enable_orbit_input",
@@ -1124,7 +1124,7 @@
                     },
                     {
                       "key": "distance_max",
-                      "value": 68
+                      "value": 81
                     },
                     {
                       "key": "fov_slope_samples",

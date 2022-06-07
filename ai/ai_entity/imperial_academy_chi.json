@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "key": "ai_entity_bag",
+      "value": [
+        {
+          "key": "construction",
+          "value": [
+            {
+              "key": "max_num_additional_builders",
+              "value": 4
+            },
+            {
+              "key": "placement_function",
+              "value": ""
+            },
+            {
+              "key": "can_build_multiple_in_parallel",
+              "value": false
+            },
+            {
+              "key": "near_to_structures",
+              "value": [
+                {
+                  "key": "structure",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "building_landmark_age1_academy_control_chi"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ebps"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "max_num_incomplete_structures_builders",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "key": "applicable_blueprints",
+          "value": [
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_tech_unit_infantry_control_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_cavalry_control_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_infantry_control_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_ranged_control_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_siege_control_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2082370
+    }
+  ]
+}

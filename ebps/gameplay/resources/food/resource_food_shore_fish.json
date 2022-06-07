@@ -679,6 +679,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -753,8 +757,12 @@
           "value": true
         },
         {
+          "key": "reticule_override_size",
+          "value": 0
+        },
+        {
           "key": "selection_method",
-          "value": "selection_precise_and_secondary"
+          "value": "custom_obbs"
         },
         {
           "key": "kicker_offset_world",
@@ -841,6 +849,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_kind_select"
         },
@@ -902,6 +914,23 @@
           "value": "CustomStructure"
         },
         {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
+        },
+        {
           "key": "skin_pack_override",
           "value": false
         },
@@ -935,15 +964,15 @@
           "value": [
             {
               "key": "y",
-              "value": 1
+              "value": 0.5
             },
             {
               "key": "x",
-              "value": 1
+              "value": 3.5
             },
             {
               "key": "z",
-              "value": 1
+              "value": 3.5
             }
           ]
         },

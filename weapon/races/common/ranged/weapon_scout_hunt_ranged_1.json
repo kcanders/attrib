@@ -931,7 +931,7 @@
             },
             {
               "key": "can_fire_while_moving",
-              "value": true
+              "value": false
             },
             {
               "key": "moving_start_time",

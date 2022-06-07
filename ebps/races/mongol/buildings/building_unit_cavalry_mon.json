@@ -983,6 +983,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1055,6 +1059,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1145,6 +1153,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1204,6 +1216,23 @@
         {
           "key": "map_mark",
           "value": "Structure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -2050,7 +2079,7 @@
                                   "value": [
                                     {
                                       "key": "$PBGNAME",
-                                      "value": "building_stone_deposit_ovoo_mon"
+                                      "value": "building_stone_deposit_ovoo_large_mon"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -2064,6 +2093,19 @@
                                     {
                                       "key": "$PBGNAME",
                                       "value": "building_wonder_age3_stupa_mon"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "ebps"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entity",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "building_stone_deposit_ovoo_mon"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -3494,6 +3536,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3609,6 +3664,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3724,6 +3792,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3839,6 +3920,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3954,6 +4048,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_knight"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4069,6 +4176,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_knight"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4192,6 +4312,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4315,6 +4448,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4438,6 +4584,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4561,6 +4720,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_horseman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4684,6 +4856,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_knight"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4802,11 +4987,24 @@
                 },
                 {
                   "key": "ui_screen_name",
-                  "value": 11153268
+                  "value": 11225949
                 },
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_knight"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4922,6 +5120,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_scout"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -5045,6 +5256,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 2
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_scout"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             }
@@ -5060,6 +5284,10 @@
         },
         {
           "key": "enforce_minimum_clearance_at_spawn_positions",
+          "value": true
+        },
+        {
+          "key": "reset_production_progress_at_current_pop_cap",
           "value": true
         },
         {

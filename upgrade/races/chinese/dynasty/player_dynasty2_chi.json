@@ -259,7 +259,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "upgrade_entity_dynasty_3_chi\\unit_speed_modifier"
+                  "value": "upgrade_entity_dynasty_2_chi\\unit_speed_modifier"
                 },
                 {
                   "key": "$REF",
@@ -551,6 +551,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         }
       ]
     },

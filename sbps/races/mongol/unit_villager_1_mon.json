@@ -59,6 +59,37 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "building_stone_deposit_ovoo_large_mon"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -68,6 +99,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_ovoo"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -95,6 +139,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -104,6 +153,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_pasture"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -131,6 +193,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -140,6 +207,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_outpost"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -180,6 +260,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -189,6 +274,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_ger"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -229,6 +327,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -238,6 +341,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_barracks"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -265,6 +381,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -274,6 +395,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_dock"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -314,6 +448,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -323,6 +462,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -377,6 +529,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -386,6 +543,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -413,6 +583,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -422,6 +597,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -489,6 +677,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -498,6 +691,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_blacksmith"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -538,6 +744,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -547,6 +758,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_archery_range"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -587,6 +811,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -596,6 +825,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_market"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -633,6 +875,11 @@
                               "key": "ui_position_row",
                               "value": 1
                             }
+                          ]
+                        },
+                        {
+                          "key": "alternate_ebps",
+                          "value": [
                           ]
                         },
                         {
@@ -647,6 +894,19 @@
                               "value": "ebps"
                             }
                           ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_town_center"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
+                            }
+                          ]
                         }
                       ]
                     },
@@ -685,6 +945,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -694,6 +959,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -748,6 +1026,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -757,6 +1040,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -784,6 +1080,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -793,6 +1094,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -860,6 +1174,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -869,6 +1188,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_siege_workshop"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -906,6 +1238,11 @@
                               "key": "ui_position_row",
                               "value": 1
                             }
+                          ]
+                        },
+                        {
+                          "key": "alternate_ebps",
+                          "value": [
                           ]
                         },
                         {
@@ -920,6 +1257,19 @@
                               "value": "ebps"
                             }
                           ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_monastery"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
+                            }
+                          ]
                         }
                       ]
                     },
@@ -958,6 +1308,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -967,6 +1322,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -1021,6 +1389,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -1030,6 +1403,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -1057,6 +1443,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -1066,6 +1457,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -1120,6 +1524,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -1129,6 +1538,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "build_wonder"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "hotkeys\\hotkey_binding"
                             }
                           ]
                         }
@@ -1713,7 +2135,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": true
+          "value": false
         },
         {
           "key": "QueryTree_States",
@@ -1979,6 +2401,10 @@
               "value": "options\\none"
             }
           ]
+        },
+        {
+          "key": "attack_move_command_requires_valid_range",
+          "value": true
         },
         {
           "key": "reaction_combat_delay_seconds",

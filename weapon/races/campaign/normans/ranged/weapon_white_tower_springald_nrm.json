@@ -1579,11 +1579,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 5
+                  "value": 3.25
                 },
                 {
                   "key": "min",
-                  "value": 5
+                  "value": 3.25
                 }
               ]
             },
@@ -1669,11 +1669,11 @@
                 },
                 {
                   "key": "unit_type",
-                  "value": "ship"
+                  "value": "naval_unit"
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 50
+                  "value": 40
                 }
               ]
             }

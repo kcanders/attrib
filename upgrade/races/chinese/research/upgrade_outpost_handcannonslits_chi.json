@@ -731,10 +731,6 @@
               "value": "intersection"
             },
             {
-              "key": "help_text",
-              "value": 11205520
-            },
-            {
               "key": "hotkey_name",
               "value": "q"
             },
@@ -751,7 +747,20 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": ""
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11223572
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 1
+                    }
+                  ]
                 }
               ]
             },
@@ -861,6 +870,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_outpost_arrowslits"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

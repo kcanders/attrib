@@ -417,6 +417,35 @@
               "value": [
                 {
                   "key": "key",
+                  "value": "landmark_active"
+                },
+                {
+                  "key": "default_value",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_statemodelbool"
+                },
+                {
+                  "key": "data_source_type",
+                  "value": "entity_datasource"
+                },
+                {
+                  "key": "compare_to_value",
+                  "value": true
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                }
+              ]
+            },
+            {
+              "key": "required_statemodelbool",
+              "value": [
+                {
+                  "key": "key",
                   "value": "is_in_influence_hre"
                 },
                 {
@@ -837,6 +866,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "ability_emergency_repair"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         },
         {
           "key": "ability_category",

@@ -1,0 +1,4747 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 2071555
+    },
+    {
+      "key": "modular_hotkeys",
+      "value": [
+        {
+          "key": "hotkey_contexts",
+          "value": [
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11223175
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 200
+                },
+                {
+                  "key": "unique_key",
+                  "value": "build_menu_age_1"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_house"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_imperial_academy_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_great_wall_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_barbican_of_the_sun_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_astronomical_clocktower_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_mosque_sultanate"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_wooden_fortress"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_hunting_cabin"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_ovoo"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_pasture"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_ger"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_imperial_palace_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_stable_mongols"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_house_of_wisdom"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_palisade_gate"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_palisade"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_outpost"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_dock"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_barracks"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_farm"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_mining_camp"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_lumber_camp"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_mill"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_village"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_spirit_way_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11149140
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2500
+                },
+                {
+                  "key": "unique_key",
+                  "value": "imperial_academy"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_imperial_examinations"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11146036
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2400
+                },
+                {
+                  "key": "unique_key",
+                  "value": "high_armory"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_banded_arms"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_fine_tuned_guns"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_siege_crew_training"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_wandering_town"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11148016
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2300
+                },
+                {
+                  "key": "unique_key",
+                  "value": "college_of_artillery"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_royal_cannon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_royal_culverin"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_royal_ribauldequin"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11145205
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2300
+                },
+                {
+                  "key": "unique_key",
+                  "value": "guild_hall"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_collect_resources"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_toggle_food"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_toggle_gold"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_toggle_stone"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_toggle_wood"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11145221
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2200
+                },
+                {
+                  "key": "unique_key",
+                  "value": "royal_institute"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_cantled_saddles"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_crossbow_stirrups"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_chivalry"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_enlistment_incentives"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_gambesons"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_royal_bloodlines"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11183445
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2100
+                },
+                {
+                  "key": "unique_key",
+                  "value": "house_of_wisdom"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_agriculture"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_armored_caravans"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_boot_camp"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_camel_rider_shields"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_camel_support"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_faith"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_fresh_foodstuffs"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_grand_bazaar"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_improved_processing"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_medical_centers"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_preservation_of_knowledge"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_spice_roads"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "wing_culture"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "wing_economy"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "wing_military"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "wing_trade"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11148465
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2000
+                },
+                {
+                  "key": "unique_key",
+                  "value": "house_of_learning"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_hearty_rations"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_honed_blades"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_lookout_towers"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_reinforced_foundations"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_tranquil_venue"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119598
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1900
+                },
+                {
+                  "key": "unique_key",
+                  "value": "keep"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_bombard_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_horseman_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_slate_and_stone_construction_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_enlistment_incentives_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_village_fortresses_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_spearman_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_mangonel_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_network_of_citadels_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_springald_emplacement"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_slowburning_defenses_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_reinforced_defenses_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_extra_materials_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_cannon_emplacement"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_boiling_oil"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_scout_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_ribauldequin_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_manatarms_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_longbowman_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_knight_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_handcannoneer_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_crossbowman_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_counterweight_treb_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_springald_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_keep_villager_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11170617
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1000
+                },
+                {
+                  "key": "unique_key",
+                  "value": "dock"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_archer_ship"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_patchwork_repairs_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_long_guns_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_navigator_lookout"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_fire_stations_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_extra_hammocks_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_extra_ballista"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_extended_lines"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_explosives"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_clinker_construction_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_piracy_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_chaser_cannons"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_armored_hull"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_additional_sails"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_war_ship"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_transport_ship"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_trade_ship"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_galleass"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_fishing_boat"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_demo_ship"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_attack_ship"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_cedar_hulls_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_teak_masts_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11142228
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1200
+                },
+                {
+                  "key": "unique_key",
+                  "value": "blacksmith"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_biology_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_chemistry_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_elite_army_tactics_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_incendiary_arrows_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_melee_armor"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_melee_damage"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_ranged_armor"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_ranged_damage"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_siege_works_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_boyars_fortitude_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_camel_handling_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_marching_drills_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_siege_engineering"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_military_academy"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_forced_march_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11227108
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1700
+                },
+                {
+                  "key": "unique_key",
+                  "value": "monastery"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_monk"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_all_seeing_eye_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_benediction_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_blessing_duration_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_devoutness_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_herbal_medicine"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_inspired_warriors_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_monastic_shrines_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_piety"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_sanctity_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_tithe_barns"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_zeal_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_efficient_production_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_swiftness_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_saints_reach_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_improved_blessing_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11121226
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1300
+                },
+                {
+                  "key": "unique_key",
+                  "value": "market"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "buy_food"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "buy_stone"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "buy_wood"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_trade_cart"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "sell_food"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "sell_stone"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "sell_wood"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_stone_commerce_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "toggle_trade_resource_type_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11227113
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 2000
+                },
+                {
+                  "key": "unique_key",
+                  "value": "university"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_ancient_techniques_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_biology"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_chemistry"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_court_architects"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_elite_army_tactics"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_royal_bloodlines_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_siege_works"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_pyrotechnics_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_incendiary_arrows"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119481
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1800
+                },
+                {
+                  "key": "unique_key",
+                  "value": "siege_workshop"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_bombard"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_culverin"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_mangonel"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_ribauldequin"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_springald"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_trebuchet"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_adjustable_crossbars"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_geometry"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_greased_axles"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_roller_shutter_triggers"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_shattering_projectiles"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_reusable_barrels_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_reload_drills_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119576
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1600
+                },
+                {
+                  "key": "unique_key",
+                  "value": "stable"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_camelrider_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_firelancer_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_horseman"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_knight"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_camel_armor_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_camelrider_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_cavalry_cantled_saddle_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_cavalry_chivalry_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_firelancer_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_horseman"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_war_elephant_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_war_elephant_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_scout"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_cavalry_melee_damage_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_knight"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119565
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1500
+                },
+                {
+                  "key": "unique_key",
+                  "value": "archery_range"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_archer"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_crossbow_stirrups_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_streltsy_weapon_percision_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_arrow_volley_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_mangudai_weapon_damage_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_gambesons_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_horsearcher"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_crossbow"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_setup_camp_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_comp_bow_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_repeater_crossbow_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_camelarcher_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_archer"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_camelarcher_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_repeater_crossbowman_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_war_elephant_tower_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_grenadier_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_handcannoneer"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_horsearcher"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "produce_crossbowman"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_streltsy_double_time_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_landmark_siege_elephant_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11121046
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1100
+                },
+                {
+                  "key": "unique_key",
+                  "value": "outpost"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_outpost_arrowslits"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_outpost_springald"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_outpost_cannon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_fortify_outpost"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_castle_turret"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_castle_watch"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_yam_network"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11141986
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 900
+                },
+                {
+                  "key": "unique_key",
+                  "value": "barracks"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_armor_clad"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_heavy_maces"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_phalanx"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_riveted_chain_mail"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_two_handed_weapons"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_landsknecht"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_manatarms"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_spearman"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_landsknecht"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_manatarms"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_spearman"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_upgrade_battle_hardened_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11150250
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1100
+                },
+                {
+                  "key": "unique_key",
+                  "value": "ger"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_food_gather_technology_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_wood_gather_technology_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_mining_gather_technology_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_forestry_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_wheelbarrow_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_survival_techniques_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_professional_scouts_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11141897
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 800
+                },
+                {
+                  "key": "unique_key",
+                  "value": "mining_camp"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_mining_gather_technology"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119561
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 700
+                },
+                {
+                  "key": "unique_key",
+                  "value": "lumber_camp"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_forestry"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_wood_gather_technology"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119562
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 600
+                },
+                {
+                  "key": "unique_key",
+                  "value": "mill"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_food_gather_technology"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_wheelbarrow"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_survival_techniques"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_professional_scouts"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_enclosures"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11119069
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1400
+                },
+                {
+                  "key": "unique_key",
+                  "value": "town_center"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_textiles"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_official"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_prelate"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_scout"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "train_villager"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11223908
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 100
+                },
+                {
+                  "key": "unique_key",
+                  "value": "abilities"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "toggle_formation_spread"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_set_home_market"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "squad_order_attack_move"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_herd_sheep_khan"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_herd_sheep"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_trade"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_toggle_auto_heal"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_heal"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_drop_relic"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_drop_carcass"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_detonate"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_convert"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_attack_ground"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_unpack_building"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_pack_building"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "squad_order_patrol"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "general_toggle_stand_ground"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "general_garrison"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "squad_order_stop"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "villager_seek_shelter"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "villager_repair"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "general_delete"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "select_inline_menu_4"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "select_inline_menu_3"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "select_inline_menu_2"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "select_inline_menu_1"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "toggle_formation_wedge"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "toggle_formation_line"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_age_up"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_set_rally_point"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11223178
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 500
+                },
+                {
+                  "key": "unique_key",
+                  "value": "build_menu_age_4"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_university"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_wonder"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11223177
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 400
+                },
+                {
+                  "key": "unique_key",
+                  "value": "build_menu_age_3"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_monastery"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_siege_workshop"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_keep"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_pagoda"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11223176
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 300
+                },
+                {
+                  "key": "unique_key",
+                  "value": "build_menu_age_2"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_blacksmith"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_market"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_town_center"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_archery_range"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_stable"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_wall_tower"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_wall"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_wall_gate"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "build_granary"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11227008
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 110
+                },
+                {
+                  "key": "unique_key",
+                  "value": "unit_abilities"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_collect_tax"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_conversion_faith"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_deploy_palings"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_deploy_pavise"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_double_time"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_emergency_repair"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_force_march"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_scouting_falcon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_signal_arrow_attack"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_signal_arrow_defense"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_signal_arrow_move_speed"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_supervise"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ability_toggle_automatic_tax_collection"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "hotkey_context",
+              "value": [
+                {
+                  "key": "ui_name",
+                  "value": 11153031
+                },
+                {
+                  "key": "ui_sort_priority",
+                  "value": 1250
+                },
+                {
+                  "key": "unique_key",
+                  "value": "ovoo"
+                },
+                {
+                  "key": "bindings",
+                  "value": [
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_additional_torches"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_raid_bounty"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_stone_bounty"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_superior_mobility"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tech_whistling_arrows"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -812,10 +812,6 @@
             },
             {
               "key": "unit_type",
-              "value": "barracks"
-            },
-            {
-              "key": "unit_type",
               "value": "siegeable"
             },
             {
@@ -1042,6 +1038,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1114,6 +1114,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1204,6 +1208,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1263,6 +1271,23 @@
         {
           "key": "map_mark",
           "value": ""
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -3419,6 +3444,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_demo_ship"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3534,6 +3572,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_fishing_boat"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3649,6 +3700,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_transport_ship"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3764,6 +3828,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_attack_ship"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3879,6 +3956,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_war_ship"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3994,6 +4084,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_trade_ship"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -4109,6 +4212,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "produce_archer_ship"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             }
@@ -4124,6 +4240,10 @@
         },
         {
           "key": "enforce_minimum_clearance_at_spawn_positions",
+          "value": true
+        },
+        {
+          "key": "reset_production_progress_at_current_pop_cap",
           "value": true
         },
         {

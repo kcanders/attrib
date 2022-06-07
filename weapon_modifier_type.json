@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_18",
-      "value": "weapon_setup_modifier"
+      "value": "weapon_scatter"
     },
     {
       "key": "_3",
@@ -10,7 +10,7 @@
     },
     {
       "key": "_17",
-      "value": "weapon_scatter"
+      "value": "weapon_penetration_modifier"
     },
     {
       "key": "_4",
@@ -26,7 +26,11 @@
     },
     {
       "key": "_16",
-      "value": "weapon_penetration_modifier"
+      "value": "weapon_instant_teardown"
+    },
+    {
+      "key": "_24",
+      "value": "weapon_wind_up_modifier"
     },
     {
       "key": "_0",
@@ -34,7 +38,7 @@
     },
     {
       "key": "_22",
-      "value": "weapon_wind_down_modifier"
+      "value": "weapon_teardown_modifier"
     },
     {
       "key": "_8",
@@ -42,15 +46,15 @@
     },
     {
       "key": "_21",
-      "value": "weapon_teardown_modifier"
+      "value": "weapon_suppression_modifier"
     },
     {
       "key": "_13",
-      "value": "weapon_horizontal_traverse"
+      "value": "weapon_horizontal_fire_cone"
     },
     {
       "key": "_19",
-      "value": "weapon_slot_item_drop_rate"
+      "value": "weapon_setup_modifier"
     },
     {
       "key": "_11",
@@ -62,23 +66,23 @@
     },
     {
       "key": "_20",
-      "value": "weapon_suppression_modifier"
+      "value": "weapon_slot_item_drop_rate"
     },
     {
       "key": "_15",
-      "value": "weapon_instant_teardown"
-    },
-    {
-      "key": "_23",
-      "value": "weapon_wind_up_modifier"
-    },
-    {
-      "key": "_14",
       "value": "weapon_instant_setup"
     },
     {
+      "key": "_23",
+      "value": "weapon_wind_down_modifier"
+    },
+    {
+      "key": "_14",
+      "value": "weapon_horizontal_traverse"
+    },
+    {
       "key": "_12",
-      "value": "weapon_horizontal_fire_cone"
+      "value": "weapon_damage_per_unit_type_modifier"
     },
     {
       "key": "_6",

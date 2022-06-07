@@ -940,6 +940,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1012,6 +1016,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1102,6 +1110,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1161,6 +1173,23 @@
         {
           "key": "map_mark",
           "value": "Structure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -3315,6 +3344,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_spearman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3430,6 +3472,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_spearman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3545,6 +3600,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_spearman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3660,6 +3728,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_spearman"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3775,6 +3856,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_manatarms"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -3890,121 +3984,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
-                }
-              ]
-            },
-            {
-              "key": "spawn_item",
-              "value": [
+                },
                 {
-                  "key": "squad",
+                  "key": "hotkey_binding",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "unit_handcannon_4"
+                      "value": "train_manatarms"
                     },
                     {
                       "key": "$PBGMAP",
-                      "value": "sbps"
+                      "value": "hotkeys\\hotkey_binding"
                     }
                   ]
-                },
-                {
-                  "key": "ui_menu",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": ""
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": ""
-                    }
-                  ]
-                },
-                {
-                  "key": "ui_position",
-                  "value": [
-                    {
-                      "key": "ui_position_column",
-                      "value": 3
-                    },
-                    {
-                      "key": "ui_position_row",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "key": "number_to_queue_up_to_when_modified",
-                  "value": 5
-                },
-                {
-                  "key": "entity",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": ""
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": ""
-                    }
-                  ]
-                },
-                {
-                  "key": "additional_squads",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "item_cost_adjustment",
-                  "value": [
-                    {
-                      "key": "food",
-                      "value": 0
-                    },
-                    {
-                      "key": "action",
-                      "value": 0
-                    },
-                    {
-                      "key": "gold",
-                      "value": 0
-                    },
-                    {
-                      "key": "militia_hre",
-                      "value": 0
-                    },
-                    {
-                      "key": "popcap",
-                      "value": 0
-                    },
-                    {
-                      "key": "stone",
-                      "value": 0
-                    },
-                    {
-                      "key": "command",
-                      "value": 0
-                    },
-                    {
-                      "key": "wood",
-                      "value": 0
-                    }
-                  ]
-                },
-                {
-                  "key": "spawn_at_map_entry_point",
-                  "value": false
-                },
-                {
-                  "key": "can_be_cancelled",
-                  "value": true
-                },
-                {
-                  "key": "number_to_spawn",
-                  "value": 1
                 }
               ]
             }
@@ -4020,6 +4012,10 @@
         },
         {
           "key": "enforce_minimum_clearance_at_spawn_positions",
+          "value": true
+        },
+        {
+          "key": "reset_production_progress_at_current_pop_cap",
           "value": true
         },
         {

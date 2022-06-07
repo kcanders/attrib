@@ -638,7 +638,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 2400
+          "value": 2500
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -1107,6 +1107,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1179,6 +1183,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1269,6 +1277,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1328,6 +1340,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -6440,6 +6469,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_villager"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -6555,6 +6597,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_scout"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -6670,6 +6725,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_prelate"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             }
@@ -6686,6 +6754,10 @@
         {
           "key": "enforce_minimum_clearance_at_spawn_positions",
           "value": true
+        },
+        {
+          "key": "reset_production_progress_at_current_pop_cap",
+          "value": false
         },
         {
           "key": "$REF",

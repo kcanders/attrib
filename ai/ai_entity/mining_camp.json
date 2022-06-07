@@ -11,25 +11,17 @@
               "value": 4
             },
             {
-              "key": "near_to_structure",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": ""
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": ""
-                }
-              ]
-            },
-            {
               "key": "placement_function",
               "value": ""
             },
             {
               "key": "can_build_multiple_in_parallel",
               "value": true
+            },
+            {
+              "key": "near_to_structures",
+              "value": [
+              ]
             },
             {
               "key": "max_num_incomplete_structures_builders",

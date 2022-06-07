@@ -6,7 +6,7 @@
     },
     {
       "key": "_4",
-      "value": "palings_construction_time"
+      "value": "naval_trade_rate_bonus_gold"
     },
     {
       "key": "_0",
@@ -17,8 +17,16 @@
       "value": "deep_fish_regeneration_value"
     },
     {
+      "key": "_6",
+      "value": "palings_construction_time"
+    },
+    {
       "key": "_1",
       "value": "deep_fish_regeneration_interval"
+    },
+    {
+      "key": "_5",
+      "value": "naval_trade_rate_bonus_wood"
     }
   ]
 }

@@ -522,54 +522,6 @@
                   "key": "requirement_table",
                   "value": [
                     {
-                      "key": "required_in_state",
-                      "value": [
-                        {
-                          "key": "check_states",
-                          "value": [
-                          ]
-                        },
-                        {
-                          "key": "was_attacking_within_seconds",
-                          "value": 5
-                        },
-                        {
-                          "key": "was_attacked_within_seconds",
-                          "value": 5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_in_state"
-                        },
-                        {
-                          "key": "ui_name",
-                          "value": 11163527
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_not"
-                },
-                {
-                  "key": "reason",
-                  "value": "usage"
-                }
-              ]
-            },
-            {
-              "key": "required_not",
-              "value": [
-                {
-                  "key": "requirement_table",
-                  "value": [
-                    {
                       "key": "required_any_in_list",
                       "value": [
                         {
@@ -715,7 +667,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11200345
+                  "value": 11225983
                 },
                 {
                   "key": "requirements",
@@ -792,7 +744,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11200346
+                  "value": 11225984
                 },
                 {
                   "key": "requirements",
@@ -869,7 +821,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11171291
+                  "value": 11225985
                 },
                 {
                   "key": "requirements",
@@ -946,7 +898,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11171295
+                  "value": 11225986
                 },
                 {
                   "key": "requirements",
@@ -1615,6 +1567,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "ability_category",

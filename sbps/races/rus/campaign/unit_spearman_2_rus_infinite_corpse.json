@@ -76,6 +76,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -85,6 +90,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -112,6 +130,11 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
@@ -121,6 +144,19 @@
                             {
                               "key": "$PBGMAP",
                               "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
                             }
                           ]
                         }
@@ -1128,6 +1164,10 @@
               ]
             }
           ]
+        },
+        {
+          "key": "attack_move_command_requires_valid_range",
+          "value": true
         },
         {
           "key": "reaction_combat_delay_seconds",

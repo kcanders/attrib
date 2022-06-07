@@ -46,8 +46,8 @@
           "value": -16759553
         },
         {
-          "key": "is_lake_source",
-          "value": false
+          "key": "terrain_water_type",
+          "value": 2
         },
         {
           "key": "local_distributions",

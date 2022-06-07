@@ -1657,7 +1657,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 204
+                  "value": 120
                 }
               ]
             },
@@ -1691,7 +1691,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 204
+                  "value": 240
                 }
               ]
             }

@@ -285,7 +285,7 @@
         },
         {
           "key": "ui_combine_type",
-          "value": "intersection"
+          "value": "union"
         },
         {
           "key": "ui_combine_priority",
@@ -532,7 +532,7 @@
             },
             {
               "key": "ui_combine_type",
-              "value": "intersection"
+              "value": "union"
             },
             {
               "key": "overlay_name",
@@ -830,6 +830,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "ability_force_march"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         },
         {
           "key": "ability_category",

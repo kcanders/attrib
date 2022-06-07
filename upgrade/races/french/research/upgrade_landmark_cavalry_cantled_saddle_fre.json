@@ -659,11 +659,15 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11153829
+                  "value": 11225950
                 },
                 {
                   "key": "formatter_arguments",
                   "value": [
+                    {
+                      "key": "int_value",
+                      "value": 3
+                    },
                     {
                       "key": "int_value",
                       "value": 10
@@ -778,6 +782,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_cantled_saddles"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

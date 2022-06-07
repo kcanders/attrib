@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "wonder_age3"
+              "value": "landmark_spirit_way_chi"
             },
             {
               "key": "$PBGMAP",
@@ -953,6 +953,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1023,6 +1027,10 @@
           "value": true
         },
         {
+          "key": "reticule_override_size",
+          "value": 0
+        },
+        {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
         },
@@ -1085,14 +1093,30 @@
             },
             {
               "key": "formatter",
-              "value": 11220408
+              "value": 11225071
             },
             {
               "key": "formatter_arguments",
               "value": [
                 {
                   "key": "int_value",
-                  "value": 30
+                  "value": 50
+                },
+                {
+                  "key": "int_value",
+                  "value": 100
+                },
+                {
+                  "key": "int_value",
+                  "value": 20
+                },
+                {
+                  "key": "int_value",
+                  "value": 20
+                },
+                {
+                  "key": "int_value",
+                  "value": 10
                 }
               ]
             }
@@ -1122,6 +1146,10 @@
         {
           "key": "minimap_color",
           "value": -1
+        },
+        {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
         },
         {
           "key": "selection_type",
@@ -1183,6 +1211,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1553,19 +1598,6 @@
         {
           "key": "abilities",
           "value": [
-            {
-              "key": "ability",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "spirit_way"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "abilities"
-                }
-              ]
-            }
           ]
         },
         {
@@ -1647,6 +1679,58 @@
         {
           "key": "standard_upgrades",
           "value": [
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_dynasty_econ_bonus_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_firelancer_4_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_repeater_crossbow_3_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_repeater_crossbow_4_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            }
           ]
         },
         {
@@ -2182,7 +2266,7 @@
           "value": [
             {
               "key": "while_construction_complete_entity_state_tree_ref",
-              "value": "district_landmark_age3_construction_complete_chi"
+              "value": "spirit_way_construction_complete_chi"
             },
             {
               "key": "on_construction_plan_complete_global_state_tree_ref",

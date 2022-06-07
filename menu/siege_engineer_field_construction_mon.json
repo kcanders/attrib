@@ -39,7 +39,7 @@
         },
         {
           "key": "hotkey_group",
-          "value": "hud_selection_orders"
+          "value": "hud_game"
         },
         {
           "key": "$REF",
@@ -69,6 +69,19 @@
         {
           "key": "screen_name",
           "value": 11156875
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         }
       ]
     },

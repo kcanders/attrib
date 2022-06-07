@@ -2683,6 +2683,19 @@
                           "value": "ebps"
                         }
                       ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_stone_deposit_ovoo_large_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -16394,6 +16407,19 @@
                 {
                   "key": "blueprints",
                   "value": [
+                    {
+                      "key": "entity",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_stone_deposit_ovoo_large_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
                     {
                       "key": "entity",
                       "value": [

@@ -1345,7 +1345,7 @@
           "value": [
             {
               "key": "local_deposit_search_range",
-              "value": 20
+              "value": 15
             },
             {
               "key": "gaia_melee_combat_range",
@@ -2603,6 +2603,10 @@
           "value": 20
         },
         {
+          "key": "reset_production_time_at_pop_cap",
+          "value": false
+        },
+        {
           "key": "show_squad_production_queue",
           "value": false
         }
@@ -2914,6 +2918,40 @@
             {
               "key": "id",
               "value": "inspire_range_hre"
+            }
+          ]
+        },
+        {
+          "key": "simulation_float_property",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "simulation_float_property"
+            },
+            {
+              "key": "value",
+              "value": 0
+            },
+            {
+              "key": "id",
+              "value": "naval_trade_rate_bonus_gold"
+            }
+          ]
+        },
+        {
+          "key": "simulation_float_property",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "simulation_float_property"
+            },
+            {
+              "key": "value",
+              "value": 1
+            },
+            {
+              "key": "id",
+              "value": "naval_trade_rate_bonus_wood"
             }
           ]
         }
@@ -7251,6 +7289,10 @@
               "value": false
             },
             {
+              "key": "great_wall_active_chi",
+              "value": false
+            },
+            {
               "key": "trade_unit_changed_resource_abb",
               "value": false
             },
@@ -7491,6 +7533,10 @@
               "value": false
             },
             {
+              "key": "spirit_way_active",
+              "value": false
+            },
+            {
               "key": "farm_reseed_signal",
               "value": false
             },
@@ -7552,6 +7598,10 @@
             },
             {
               "key": "saints_damage_buff_rus",
+              "value": false
+            },
+            {
+              "key": "kurultai_damage_buff_mon",
               "value": false
             },
             {
@@ -11258,6 +11308,10 @@
           "value": 2
         },
         {
+          "key": "projectile_terrain_collision_height_tolerance",
+          "value": 5
+        },
+        {
           "key": "forced_engagement_target_search_delay_time",
           "value": 0.2
         },
@@ -12296,6 +12350,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -12446,6 +12513,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -12586,6 +12666,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -12742,6 +12835,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -12894,6 +13000,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -13050,6 +13169,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "ability_set_rally_point"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -13190,6 +13322,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -13346,6 +13491,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -13486,6 +13644,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -14487,6 +14658,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -14641,6 +14825,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "squad_order_attack_move"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -14781,6 +14978,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -14937,6 +15147,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -15091,6 +15314,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "squad_order_stop"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -15239,6 +15475,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -15395,6 +15644,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "ability_trade"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -15549,6 +15811,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "ability_attack_ground"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -15697,6 +15972,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -15853,6 +16141,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "general_garrison"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -16007,6 +16308,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -16152,6 +16466,19 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "key": "hotkey_binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
                     }
                   ]
                 }
@@ -16294,6 +16621,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -16458,6 +16798,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "general_toggle_stand_ground"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -16613,6 +16966,19 @@
                               "value": ""
                             }
                           ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "hotkey_binding",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "squad_order_patrol"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "hotkeys\\hotkey_binding"
                         }
                       ]
                     }
@@ -16771,6 +17137,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -16915,6 +17294,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -17071,6 +17463,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -17211,6 +17616,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -17367,6 +17785,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -17517,6 +17948,19 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
                 }
               ]
             },
@@ -17665,6 +18109,19 @@
                           "value": ""
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -18477,7 +18934,7 @@
                 },
                 {
                   "key": "blip_data_template",
-                  "value": "general"
+                  "value": ""
                 },
                 {
                   "key": "repeat_radius",
@@ -18538,7 +18995,7 @@
                 },
                 {
                   "key": "repeat_time",
-                  "value": 20
+                  "value": 0
                 }
               ]
             },
@@ -18843,7 +19300,7 @@
                 },
                 {
                   "key": "repeat_radius",
-                  "value": 35
+                  "value": 45
                 },
                 {
                   "key": "icon",
@@ -19123,11 +19580,11 @@
                 },
                 {
                   "key": "blip_data_template",
-                  "value": "combat"
+                  "value": "defend_here"
                 },
                 {
                   "key": "repeat_radius",
-                  "value": 35
+                  "value": 60
                 },
                 {
                   "key": "icon",
@@ -19139,7 +19596,7 @@
                 },
                 {
                   "key": "data_template",
-                  "value": "medium_priority_negative"
+                  "value": "low_priority"
                 },
                 {
                   "key": "$REF",
@@ -19184,7 +19641,7 @@
                 },
                 {
                   "key": "repeat_time",
-                  "value": 20
+                  "value": 25
                 }
               ]
             },
@@ -20509,7 +20966,7 @@
                 },
                 {
                   "key": "repeat_radius",
-                  "value": 35
+                  "value": 45
                 },
                 {
                   "key": "icon",
@@ -20566,7 +21023,7 @@
                 },
                 {
                   "key": "repeat_time",
-                  "value": 10
+                  "value": 25
                 }
               ]
             },
@@ -20711,7 +21168,7 @@
               "value": [
                 {
                   "key": "lifetime",
-                  "value": 5
+                  "value": 0.1
                 },
                 {
                   "key": "blip_data_template",
@@ -20776,7 +21233,7 @@
                 },
                 {
                   "key": "repeat_time",
-                  "value": 20
+                  "value": 0
                 }
               ]
             }

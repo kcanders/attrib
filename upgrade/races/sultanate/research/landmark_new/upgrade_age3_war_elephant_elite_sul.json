@@ -515,7 +515,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 1350
+              "value": 1080
             },
             {
               "key": "cost",
@@ -597,6 +597,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_war_elephant_sul"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

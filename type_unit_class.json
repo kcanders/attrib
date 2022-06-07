@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_163",
-      "value": "mosque"
+      "value": "monk"
     },
     {
       "key": "_42",
@@ -14,7 +14,7 @@
     },
     {
       "key": "_205",
-      "value": "research_building"
+      "value": "requisition_resource"
     },
     {
       "key": "_54",
@@ -22,7 +22,7 @@
     },
     {
       "key": "_179",
-      "value": "nest_of_bees"
+      "value": "naval_western"
     },
     {
       "key": "_99",
@@ -30,19 +30,19 @@
     },
     {
       "key": "_311",
-      "value": "wonder_feudal_age"
+      "value": "wonder_dark_age"
     },
     {
       "key": "_221",
-      "value": "royal_trade_cart_hre"
+      "value": "riding_hall"
     },
     {
       "key": "_251",
-      "value": "siege_tower"
+      "value": "siege_range"
     },
     {
       "key": "_133",
-      "value": "landsknecht"
+      "value": "landmark_abb"
     },
     {
       "key": "_83",
@@ -58,35 +58,35 @@
     },
     {
       "key": "_310",
-      "value": "wonder_dark_age"
+      "value": "wonder_castle_age"
     },
     {
       "key": "_137",
-      "value": "light_melee_infantry"
+      "value": "light_arrow_ship"
     },
     {
       "key": "_183",
-      "value": "outpost"
+      "value": "official"
     },
     {
       "key": "_215",
-      "value": "resource_pickup_stone"
+      "value": "resource_pickup_gold"
     },
     {
       "key": "_200",
-      "value": "ranged"
+      "value": "ram"
     },
     {
       "key": "_123",
-      "value": "infantry_tab"
+      "value": "infantry"
     },
     {
       "key": "_187",
-      "value": "paling"
+      "value": "pagoda_chi"
     },
     {
       "key": "_219",
-      "value": "rider"
+      "value": "ribauldequin"
     },
     {
       "key": "_18",
@@ -98,7 +98,7 @@
     },
     {
       "key": "_260",
-      "value": "stealth_cover"
+      "value": "stable"
     },
     {
       "key": "_120",
@@ -106,7 +106,7 @@
     },
     {
       "key": "_266",
-      "value": "stone_wall_bastion"
+      "value": "stone_wall"
     },
     {
       "key": "_103",
@@ -114,7 +114,7 @@
     },
     {
       "key": "_182",
-      "value": "official"
+      "value": "normal"
     },
     {
       "key": "_3",
@@ -146,7 +146,7 @@
     },
     {
       "key": "_257",
-      "value": "special_beacon"
+      "value": "spearman"
     },
     {
       "key": "_115",
@@ -154,11 +154,11 @@
     },
     {
       "key": "_267",
-      "value": "stone_wall_section"
+      "value": "stone_wall_bastion"
     },
     {
       "key": "_157",
-      "value": "mining_camp"
+      "value": "mine"
     },
     {
       "key": "_69",
@@ -166,31 +166,31 @@
     },
     {
       "key": "_125",
-      "value": "inn"
+      "value": "infantry_upgrades_tab"
     },
     {
       "key": "_245",
-      "value": "shipyard"
+      "value": "ship_medium_sail"
     },
     {
       "key": "_141",
-      "value": "madrasa"
+      "value": "lumber_camp"
     },
     {
       "key": "_291",
-      "value": "tree_elm_tame"
+      "value": "tree"
     },
     {
       "key": "_231",
-      "value": "scar_lumbercamp"
+      "value": "scar_keep"
     },
     {
       "key": "_186",
-      "value": "pagoda_chi"
+      "value": "packable_building"
     },
     {
       "key": "_276",
-      "value": "support_infantry_tab"
+      "value": "supply_cart"
     },
     {
       "key": "_49",
@@ -198,7 +198,7 @@
     },
     {
       "key": "_211",
-      "value": "resource_node"
+      "value": "resource_improved_already"
     },
     {
       "key": "_4",
@@ -206,11 +206,11 @@
     },
     {
       "key": "_302",
-      "value": "villager"
+      "value": "village"
     },
     {
       "key": "_126",
-      "value": "khan"
+      "value": "inn"
     },
     {
       "key": "_90",
@@ -218,11 +218,11 @@
     },
     {
       "key": "_255",
-      "value": "sp_intel"
+      "value": "small_ship"
     },
     {
       "key": "_155",
-      "value": "mill"
+      "value": "militia"
     },
     {
       "key": "_119",
@@ -233,8 +233,12 @@
       "value": "dynamic_root_monk_driver"
     },
     {
+      "key": "_315",
+      "value": "worker"
+    },
+    {
       "key": "_261",
-      "value": "stone"
+      "value": "stealth_cover"
     },
     {
       "key": "_112",
@@ -246,19 +250,19 @@
     },
     {
       "key": "_238",
-      "value": "scar_university"
+      "value": "scar_stable"
     },
     {
       "key": "_202",
-      "value": "relic_charlemagne"
+      "value": "relic"
     },
     {
       "key": "_175",
-      "value": "naval_unit"
+      "value": "naval_transport"
     },
     {
       "key": "_130",
-      "value": "kremlin_armory_rus"
+      "value": "knight_rider"
     },
     {
       "key": "_57",
@@ -266,27 +270,27 @@
     },
     {
       "key": "_213",
-      "value": "resource_pickup_food"
+      "value": "resource_pickup"
     },
     {
       "key": "_170",
-      "value": "naval_general_ship"
+      "value": "naval_galleass"
     },
     {
       "key": "_234",
-      "value": "scar_monastery"
+      "value": "scar_miningcamp"
     },
     {
       "key": "_128",
-      "value": "knight"
+      "value": "king"
     },
     {
       "key": "_190",
-      "value": "palisade_wall_bastion"
+      "value": "palisade_wall"
     },
     {
       "key": "_208",
-      "value": "resource_generator"
+      "value": "resource_drop_off"
     },
     {
       "key": "_63",
@@ -294,19 +298,19 @@
     },
     {
       "key": "_282",
-      "value": "town_center_capital"
+      "value": "town_center"
     },
     {
       "key": "_136",
-      "value": "light_arrow_ship"
+      "value": "legacy_generator"
     },
     {
       "key": "_185",
-      "value": "packable_building"
+      "value": "ovoo"
     },
     {
       "key": "_225",
-      "value": "scar_barracks"
+      "value": "scar_arsenal"
     },
     {
       "key": "_89",
@@ -314,7 +318,7 @@
     },
     {
       "key": "_293",
-      "value": "tree_oak_wild"
+      "value": "tree_elm_wild"
     },
     {
       "key": "_117",
@@ -326,11 +330,11 @@
     },
     {
       "key": "_313",
-      "value": "wooden_fortress"
+      "value": "wonder_imperial_age"
     },
     {
       "key": "_124",
-      "value": "infantry_upgrades_tab"
+      "value": "infantry_tab"
     },
     {
       "key": "_16",
@@ -342,11 +346,11 @@
     },
     {
       "key": "_239",
-      "value": "scout"
+      "value": "scar_university"
     },
     {
       "key": "_305",
-      "value": "war_elephant"
+      "value": "wall"
     },
     {
       "key": "_72",
@@ -362,11 +366,11 @@
     },
     {
       "key": "_250",
-      "value": "siege_range"
+      "value": "siege_melee"
     },
     {
       "key": "_265",
-      "value": "stone_wall"
+      "value": "stone_mining_camp"
     },
     {
       "key": "_107",
@@ -382,15 +386,15 @@
     },
     {
       "key": "_226",
-      "value": "scar_blacksmith"
+      "value": "scar_barracks"
     },
     {
       "key": "_204",
-      "value": "requisition_resource"
+      "value": "relic_dropoff"
     },
     {
       "key": "_217",
-      "value": "resource_small"
+      "value": "resource_pickup_wood"
     },
     {
       "key": "_88",
@@ -402,7 +406,7 @@
     },
     {
       "key": "_166",
-      "value": "naval_eastern"
+      "value": "naval_broadside"
     },
     {
       "key": "_22",
@@ -410,7 +414,7 @@
     },
     {
       "key": "_159",
-      "value": "monastery"
+      "value": "mobile_building"
     },
     {
       "key": "_8",
@@ -426,35 +430,35 @@
     },
     {
       "key": "_188",
-      "value": "palisade_gate"
+      "value": "paling"
     },
     {
       "key": "_207",
-      "value": "resource_drop_off"
+      "value": "resource"
     },
     {
       "key": "_252",
-      "value": "siege_workshop"
+      "value": "siege_tower"
     },
     {
       "key": "_212",
-      "value": "resource_pickup"
+      "value": "resource_node"
     },
     {
       "key": "_191",
-      "value": "palisade_wall_section"
+      "value": "palisade_wall_bastion"
     },
     {
       "key": "_129",
-      "value": "knight_rider"
+      "value": "knight"
     },
     {
       "key": "_199",
-      "value": "ram"
+      "value": "raid_bounty"
     },
     {
       "key": "_198",
-      "value": "raid_bounty"
+      "value": "production_building"
     },
     {
       "key": "_73",
@@ -466,23 +470,23 @@
     },
     {
       "key": "_280",
-      "value": "town_bell_target"
+      "value": "tower"
     },
     {
       "key": "_206",
-      "value": "resource"
+      "value": "research_building"
     },
     {
       "key": "_153",
-      "value": "military_production_building"
+      "value": "military_only_production"
     },
     {
       "key": "_210",
-      "value": "resource_improved_already"
+      "value": "resource_improvable"
     },
     {
       "key": "_309",
-      "value": "wonder_castle_age"
+      "value": "wonder"
     },
     {
       "key": "_45",
@@ -494,23 +498,23 @@
     },
     {
       "key": "_262",
-      "value": "stone_gate"
+      "value": "stone"
     },
     {
       "key": "_240",
-      "value": "scout_rider"
+      "value": "scout"
     },
     {
       "key": "_297",
-      "value": "vehicle"
+      "value": "university"
     },
     {
       "key": "_228",
-      "value": "scar_gristmill"
+      "value": "scar_dock"
     },
     {
       "key": "_242",
-      "value": "settlement"
+      "value": "select_special_building"
     },
     {
       "key": "_31",
@@ -518,11 +522,11 @@
     },
     {
       "key": "_237",
-      "value": "scar_stable"
+      "value": "scar_siegeworkshop"
     },
     {
       "key": "_164",
-      "value": "naval_asian"
+      "value": "mosque"
     },
     {
       "key": "_94",
@@ -530,15 +534,15 @@
     },
     {
       "key": "_277",
-      "value": "tent"
+      "value": "support_infantry_tab"
     },
     {
       "key": "_220",
-      "value": "riding_hall"
+      "value": "rider"
     },
     {
       "key": "_269",
-      "value": "strategic_node"
+      "value": "stone_wall_tower"
     },
     {
       "key": "_11",
@@ -546,19 +550,19 @@
     },
     {
       "key": "_195",
-      "value": "pivotless"
+      "value": "pilgrim"
     },
     {
       "key": "_147",
-      "value": "market"
+      "value": "mangudai"
     },
     {
       "key": "_169",
-      "value": "naval_galleass"
+      "value": "naval_fishing_ship"
     },
     {
       "key": "_232",
-      "value": "scar_market"
+      "value": "scar_lumbercamp"
     },
     {
       "key": "_53",
@@ -570,11 +574,11 @@
     },
     {
       "key": "_258",
-      "value": "springald"
+      "value": "special_beacon"
     },
     {
       "key": "_290",
-      "value": "tree"
+      "value": "trebuchet_traction"
     },
     {
       "key": "_35",
@@ -582,19 +586,19 @@
     },
     {
       "key": "_176",
-      "value": "naval_war_galley"
+      "value": "naval_unit"
     },
     {
       "key": "_196",
-      "value": "power_resource"
+      "value": "pivotless"
     },
     {
       "key": "_160",
-      "value": "mongol"
+      "value": "monastery"
     },
     {
       "key": "_284",
-      "value": "trade_camel"
+      "value": "town_center_non_capital"
     },
     {
       "key": "_61",
@@ -602,15 +606,15 @@
     },
     {
       "key": "_139",
-      "value": "longbow"
+      "value": "lodya_combat_ship"
     },
     {
       "key": "_306",
-      "value": "wing_of_knowledge_abb"
+      "value": "war_elephant"
     },
     {
       "key": "_142",
-      "value": "mameluke"
+      "value": "madrasa"
     },
     {
       "key": "_2",
@@ -630,7 +634,7 @@
     },
     {
       "key": "_244",
-      "value": "ship_medium_sail"
+      "value": "ship"
     },
     {
       "key": "_41",
@@ -638,11 +642,11 @@
     },
     {
       "key": "_134",
-      "value": "leader"
+      "value": "landsknecht"
     },
     {
       "key": "_274",
-      "value": "sub_structure"
+      "value": "stupa"
     },
     {
       "key": "_56",
@@ -650,11 +654,11 @@
     },
     {
       "key": "_243",
-      "value": "ship"
+      "value": "settlement"
     },
     {
       "key": "_264",
-      "value": "stone_mining_camp"
+      "value": "stone_mason"
     },
     {
       "key": "_37",
@@ -674,7 +678,7 @@
     },
     {
       "key": "_138",
-      "value": "lodya_combat_ship"
+      "value": "light_melee_infantry"
     },
     {
       "key": "_111",
@@ -686,11 +690,11 @@
     },
     {
       "key": "_127",
-      "value": "king"
+      "value": "khan"
     },
     {
       "key": "_143",
-      "value": "mameluke_rider"
+      "value": "mameluke"
     },
     {
       "key": "_66",
@@ -702,11 +706,11 @@
     },
     {
       "key": "_296",
-      "value": "university"
+      "value": "tree_spruce_wild"
     },
     {
       "key": "_304",
-      "value": "wall"
+      "value": "villager_militarized"
     },
     {
       "key": "_38",
@@ -714,7 +718,7 @@
     },
     {
       "key": "_162",
-      "value": "monk"
+      "value": "mongol_speed"
     },
     {
       "key": "_81",
@@ -730,11 +734,11 @@
     },
     {
       "key": "_294",
-      "value": "tree_spruce_dead"
+      "value": "tree_oak_wild"
     },
     {
       "key": "_301",
-      "value": "village"
+      "value": "vehicles_upgrades_tab"
     },
     {
       "key": "_27",
@@ -742,11 +746,11 @@
     },
     {
       "key": "_275",
-      "value": "supply_cart"
+      "value": "sub_structure"
     },
     {
       "key": "_152",
-      "value": "military_only_production"
+      "value": "military"
     },
     {
       "key": "_100",
@@ -774,11 +778,11 @@
     },
     {
       "key": "_140",
-      "value": "lumber_camp"
+      "value": "longbow"
     },
     {
       "key": "_281",
-      "value": "town_center"
+      "value": "town_bell_target"
     },
     {
       "key": "_70",
@@ -790,7 +794,7 @@
     },
     {
       "key": "_197",
-      "value": "production_building"
+      "value": "power_resource"
     },
     {
       "key": "_98",
@@ -798,7 +802,7 @@
     },
     {
       "key": "_256",
-      "value": "spearman"
+      "value": "sp_intel"
     },
     {
       "key": "_28",
@@ -814,11 +818,11 @@
     },
     {
       "key": "_131",
-      "value": "landmark"
+      "value": "kremlin_armory_rus"
     },
     {
       "key": "_165",
-      "value": "naval_broadside"
+      "value": "naval_asian"
     },
     {
       "key": "_104",
@@ -826,31 +830,31 @@
     },
     {
       "key": "_146",
-      "value": "mangudai"
+      "value": "mangonel"
     },
     {
       "key": "_279",
-      "value": "tower"
+      "value": "torch_thrower"
     },
     {
       "key": "_312",
-      "value": "wonder_imperial_age"
+      "value": "wonder_feudal_age"
     },
     {
       "key": "_286",
-      "value": "trade_cart_rider"
+      "value": "trade_cart"
     },
     {
       "key": "_268",
-      "value": "stone_wall_tower"
+      "value": "stone_wall_section"
     },
     {
       "key": "_263",
-      "value": "stone_mason"
+      "value": "stone_gate"
     },
     {
       "key": "_192",
-      "value": "pasture"
+      "value": "palisade_wall_section"
     },
     {
       "key": "_80",
@@ -858,11 +862,11 @@
     },
     {
       "key": "_216",
-      "value": "resource_pickup_wood"
+      "value": "resource_pickup_stone"
     },
     {
       "key": "_214",
-      "value": "resource_pickup_gold"
+      "value": "resource_pickup_food"
     },
     {
       "key": "_93",
@@ -870,11 +874,11 @@
     },
     {
       "key": "_167",
-      "value": "naval_fireship"
+      "value": "naval_eastern"
     },
     {
       "key": "_158",
-      "value": "mobile_building"
+      "value": "mining_camp"
     },
     {
       "key": "_91",
@@ -882,27 +886,27 @@
     },
     {
       "key": "_144",
-      "value": "manatarms"
+      "value": "mameluke_rider"
     },
     {
       "key": "_298",
-      "value": "vehicle_building"
+      "value": "vehicle"
     },
     {
       "key": "_172",
-      "value": "naval_scout"
+      "value": "naval_production_building"
     },
     {
       "key": "_273",
-      "value": "stupa"
+      "value": "streltsy"
     },
     {
       "key": "_184",
-      "value": "ovoo"
+      "value": "outpost"
     },
     {
       "key": "_303",
-      "value": "villager_militarized"
+      "value": "villager"
     },
     {
       "key": "_23",
@@ -910,11 +914,11 @@
     },
     {
       "key": "_122",
-      "value": "infantry"
+      "value": "included_by_military_hotkeys"
     },
     {
       "key": "_203",
-      "value": "relic_dropoff"
+      "value": "relic_charlemagne"
     },
     {
       "key": "_86",
@@ -922,15 +926,15 @@
     },
     {
       "key": "_233",
-      "value": "scar_miningcamp"
+      "value": "scar_market"
     },
     {
       "key": "_180",
-      "value": "non_aggressive"
+      "value": "nest_of_bees"
     },
     {
       "key": "_145",
-      "value": "mangonel"
+      "value": "manatarms"
     },
     {
       "key": "_106",
@@ -946,11 +950,11 @@
     },
     {
       "key": "_249",
-      "value": "siege_melee"
+      "value": "siege_cart"
     },
     {
       "key": "_248",
-      "value": "siege_cart"
+      "value": "siege"
     },
     {
       "key": "_25",
@@ -962,11 +966,11 @@
     },
     {
       "key": "_223",
-      "value": "scar_archeryrange"
+      "value": "salvageable_object"
     },
     {
       "key": "_135",
-      "value": "legacy_generator"
+      "value": "leader"
     },
     {
       "key": "_39",
@@ -974,11 +978,11 @@
     },
     {
       "key": "_209",
-      "value": "resource_improvable"
+      "value": "resource_generator"
     },
     {
       "key": "_224",
-      "value": "scar_arsenal"
+      "value": "scar_archeryrange"
     },
     {
       "key": "_59",
@@ -986,11 +990,11 @@
     },
     {
       "key": "_270",
-      "value": "strategic_node_fuel"
+      "value": "strategic_node"
     },
     {
       "key": "_193",
-      "value": "piercing"
+      "value": "pasture"
     },
     {
       "key": "_77",
@@ -1010,7 +1014,7 @@
     },
     {
       "key": "_230",
-      "value": "scar_keep"
+      "value": "scar_house"
     },
     {
       "key": "_32",
@@ -1018,7 +1022,7 @@
     },
     {
       "key": "_149",
-      "value": "medium_ship"
+      "value": "market_keybinding"
     },
     {
       "key": "_44",
@@ -1026,11 +1030,11 @@
     },
     {
       "key": "_222",
-      "value": "salvageable_object"
+      "value": "royal_trade_cart_hre"
     },
     {
       "key": "_156",
-      "value": "mine"
+      "value": "mill"
     },
     {
       "key": "_40",
@@ -1038,7 +1042,7 @@
     },
     {
       "key": "_236",
-      "value": "scar_siegeworkshop"
+      "value": "scar_outpost"
     },
     {
       "key": "_55",
@@ -1046,15 +1050,15 @@
     },
     {
       "key": "_161",
-      "value": "mongol_speed"
+      "value": "mongol"
     },
     {
       "key": "_168",
-      "value": "naval_fishing_ship"
+      "value": "naval_fireship"
     },
     {
       "key": "_194",
-      "value": "pilgrim"
+      "value": "piercing"
     },
     {
       "key": "_116",
@@ -1066,11 +1070,11 @@
     },
     {
       "key": "_307",
-      "value": "wolf"
+      "value": "wing_of_knowledge_abb"
     },
     {
       "key": "_308",
-      "value": "wonder"
+      "value": "wolf"
     },
     {
       "key": "_33",
@@ -1078,7 +1082,7 @@
     },
     {
       "key": "_150",
-      "value": "melee"
+      "value": "medium_ship"
     },
     {
       "key": "_74",
@@ -1086,31 +1090,31 @@
     },
     {
       "key": "_289",
-      "value": "trebuchet_traction"
+      "value": "trebuchet_counterweight"
     },
     {
       "key": "_292",
-      "value": "tree_elm_wild"
+      "value": "tree_elm_tame"
     },
     {
       "key": "_247",
-      "value": "siege"
+      "value": "shore_fish"
     },
     {
       "key": "_314",
-      "value": "worker"
+      "value": "wooden_fortress"
     },
     {
       "key": "_278",
-      "value": "torch_thrower"
+      "value": "tent"
     },
     {
       "key": "_272",
-      "value": "streltsy"
+      "value": "strategic_node_resource"
     },
     {
       "key": "_148",
-      "value": "market_keybinding"
+      "value": "market"
     },
     {
       "key": "_79",
@@ -1118,31 +1122,31 @@
     },
     {
       "key": "_295",
-      "value": "tree_spruce_wild"
+      "value": "tree_spruce_dead"
     },
     {
       "key": "_283",
-      "value": "town_center_non_capital"
+      "value": "town_center_capital"
     },
     {
       "key": "_171",
-      "value": "naval_production_building"
+      "value": "naval_general_ship"
     },
     {
       "key": "_253",
-      "value": "siegeable"
+      "value": "siege_workshop"
     },
     {
       "key": "_235",
-      "value": "scar_outpost"
+      "value": "scar_monastery"
     },
     {
       "key": "_300",
-      "value": "vehicles_upgrades_tab"
+      "value": "vehicle_tab"
     },
     {
       "key": "_201",
-      "value": "relic"
+      "value": "ranged"
     },
     {
       "key": "_71",
@@ -1150,15 +1154,15 @@
     },
     {
       "key": "_227",
-      "value": "scar_dock"
+      "value": "scar_blacksmith"
     },
     {
       "key": "_288",
-      "value": "trebuchet_counterweight"
+      "value": "transport"
     },
     {
       "key": "_259",
-      "value": "stable"
+      "value": "springald"
     },
     {
       "key": "_58",
@@ -1166,7 +1170,7 @@
     },
     {
       "key": "_285",
-      "value": "trade_cart"
+      "value": "trade_camel"
     },
     {
       "key": "_5",
@@ -1174,7 +1178,7 @@
     },
     {
       "key": "_132",
-      "value": "landmark_abb"
+      "value": "landmark"
     },
     {
       "key": "_62",
@@ -1182,35 +1186,35 @@
     },
     {
       "key": "_173",
-      "value": "naval_trade_ship"
+      "value": "naval_scout"
     },
     {
       "key": "_189",
-      "value": "palisade_wall"
+      "value": "palisade_gate"
     },
     {
       "key": "_299",
-      "value": "vehicle_tab"
+      "value": "vehicle_building"
     },
     {
       "key": "_181",
-      "value": "normal"
+      "value": "non_aggressive"
     },
     {
       "key": "_218",
-      "value": "ribauldequin"
+      "value": "resource_small"
     },
     {
       "key": "_177",
-      "value": "naval_warship"
+      "value": "naval_war_galley"
     },
     {
       "key": "_229",
-      "value": "scar_house"
+      "value": "scar_gristmill"
     },
     {
       "key": "_246",
-      "value": "shore_fish"
+      "value": "shipyard"
     },
     {
       "key": "_121",
@@ -1218,27 +1222,27 @@
     },
     {
       "key": "_151",
-      "value": "military"
+      "value": "melee"
     },
     {
       "key": "_241",
-      "value": "select_special_building"
+      "value": "scout_rider"
     },
     {
       "key": "_174",
-      "value": "naval_transport"
+      "value": "naval_trade_ship"
     },
     {
       "key": "_254",
-      "value": "small_ship"
+      "value": "siegeable"
     },
     {
       "key": "_287",
-      "value": "transport"
+      "value": "trade_cart_rider"
     },
     {
       "key": "_271",
-      "value": "strategic_node_resource"
+      "value": "strategic_node_fuel"
     },
     {
       "key": "_26",
@@ -1254,11 +1258,11 @@
     },
     {
       "key": "_178",
-      "value": "naval_western"
+      "value": "naval_warship"
     },
     {
       "key": "_154",
-      "value": "militia"
+      "value": "military_production_building"
     }
   ]
 }

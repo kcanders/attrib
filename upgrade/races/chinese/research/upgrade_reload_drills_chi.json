@@ -101,7 +101,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 0.78
+                  "value": 0.75
                 },
                 {
                   "key": "id",
@@ -531,7 +531,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 20
+                      "value": 33
                     }
                   ]
                 }
@@ -643,6 +643,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_reload_drills_chi"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

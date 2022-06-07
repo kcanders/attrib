@@ -1779,6 +1779,55 @@
               ]
             }
           ]
+        },
+        {
+          "key": "category_descriptions",
+          "value": [
+            {
+              "key": "deco_rocks",
+              "value": "Contains individual and groups of small non-interactive rocks. These are normally placed around cliffs and other impasse."
+            },
+            {
+              "key": "trees_dense",
+              "value": "Contains standard size forest clusters."
+            },
+            {
+              "key": "trees_stealth_small",
+              "value": "Contains small clusters of stealth forests."
+            },
+            {
+              "key": "deco_foliage",
+              "value": "Contains non-interactive plant objects. Includes objects like ferns and bushes."
+            },
+            {
+              "key": "gaia",
+              "value": "Contains interactive animal entities, such as deer, sheep, wolves and boar."
+            },
+            {
+              "key": "no_category",
+              "value": ""
+            },
+            {
+              "key": "trees_dense_small",
+              "value": "Contains small forest clusters."
+            },
+            {
+              "key": "trees_loose",
+              "value": "Contains individual trees."
+            },
+            {
+              "key": "trees_stealth",
+              "value": "Contains standard size stealth forest clusters."
+            },
+            {
+              "key": "deco_other",
+              "value": "Contains non-interactive decorative map elements, such as puddles, beach detritus, large grass splats, water FX."
+            },
+            {
+              "key": "resources",
+              "value": "Contains gatherable resource deposits like gold and stone deposits, along with things like berry bushes and relics."
+            }
+          ]
         }
       ]
     }

@@ -957,6 +957,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1015,10 +1019,6 @@
           "value": ""
         },
         {
-          "key": "help_text",
-          "value": 11204225
-        },
-        {
           "key": "hotkey_name",
           "value": "X"
         },
@@ -1029,6 +1029,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1089,7 +1093,20 @@
           "value": [
             {
               "key": "$REF",
-              "value": ""
+              "value": "ui_text_formatter"
+            },
+            {
+              "key": "formatter",
+              "value": 11225987
+            },
+            {
+              "key": "formatter_arguments",
+              "value": [
+                {
+                  "key": "int_value",
+                  "value": 15
+                }
+              ]
             }
           ]
         },
@@ -1117,6 +1134,10 @@
         {
           "key": "minimap_color",
           "value": -1
+        },
+        {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
         },
         {
           "key": "selection_type",
@@ -1178,6 +1199,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",

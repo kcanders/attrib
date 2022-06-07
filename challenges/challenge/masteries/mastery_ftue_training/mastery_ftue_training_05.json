@@ -248,6 +248,331 @@
                               "value": "campaign\\angevin\\ang_chp4_rochester\\ang_chp4_rochester"
                             }
                           ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp1_combat30\\hun_chp1_combat30"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp1_paris\\hun_chp1_paris"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp2_cocherel\\hun_chp2_cocherel"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp2_pontvallain\\hun_chp2_pontvallain"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp3_orleans\\hun_chp3_orleans"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp3_patay\\hun_chp3_patay"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp4_formigny\\hun_chp4_formigny"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\hundred\\hun_chp4_rouen\\hun_chp4_rouen"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp1_juyong\\mon_chp1_juyong"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp1_kalka_river\\mon_chp1_kalka_river"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp1_zhongdu\\mon_chp1_zhongdu"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp2_kiev\\mon_chp2_kiev"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp2_liegnitz\\mon_chp2_liegnitz"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp2_mohi\\mon_chp2_mohi"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp3_lumen_shan\\mon_chp3_lumen_shan"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp3_xiangyang_1267\\mon_chp3_xiangyang_1267"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\mongol\\mon_chp3_xiangyang_1273\\mon_chp3_xiangyang_1273"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp1_moscow\\gdm_chp1_moscow"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp2_kulikovo\\gdm_chp2_kulikovo"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp2_tribute\\gdm_chp2_tribute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp3_moscow\\gdm_chp3_moscow"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp3_novgorod\\gdm_chp3_novgorod"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp3_ugra\\gdm_chp3_ugra"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp4_kazan\\gdm_chp4_kazan"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\russia\\gdm_chp4_smolensk\\gdm_chp4_smolensk"
+                            }
+                          ]
                         }
                       ]
                     }

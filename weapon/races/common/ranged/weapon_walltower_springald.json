@@ -1669,7 +1669,7 @@
                 },
                 {
                   "key": "unit_type",
-                  "value": "ship"
+                  "value": "naval_unit"
                 },
                 {
                   "key": "base_damage_modifier",

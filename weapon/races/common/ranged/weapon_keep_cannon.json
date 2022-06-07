@@ -422,7 +422,7 @@
           "value": [
             {
               "key": "damage_type",
-              "value": "True Damage"
+              "value": "Ranged"
             },
             {
               "key": "allow_overkill",
@@ -430,11 +430,11 @@
             },
             {
               "key": "max",
-              "value": 85
+              "value": 70
             },
             {
               "key": "min",
-              "value": 85
+              "value": 70
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1669,11 +1669,11 @@
                 },
                 {
                   "key": "unit_type",
-                  "value": "ship"
+                  "value": "naval_unit"
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 85
+                  "value": 70
                 }
               ]
             }

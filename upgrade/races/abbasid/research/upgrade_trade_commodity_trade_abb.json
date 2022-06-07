@@ -84,6 +84,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 0.25
+                },
+                {
+                  "key": "id",
+                  "value": "multiplier"
+                }
+              ]
+            }
           ]
         },
         {
@@ -510,7 +527,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 30
             },
             {
               "key": "cost",
@@ -592,6 +609,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_grand_bazaar"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

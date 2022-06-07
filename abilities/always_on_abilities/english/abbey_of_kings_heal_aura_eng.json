@@ -566,11 +566,11 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 4
+                      "value": 6
                     },
                     {
                       "key": "float_value",
-                      "value": 1.5
+                      "value": 1
                     }
                   ]
                 }
@@ -722,7 +722,7 @@
         },
         {
           "key": "range",
-          "value": 25
+          "value": 30
         },
         {
           "key": "disable_combat",
@@ -804,6 +804,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "ability_category",

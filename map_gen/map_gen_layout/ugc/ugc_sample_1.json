@@ -155,6 +155,28 @@
               ]
             },
             {
+              "key": "fish_deepwater_offshore",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "fish_deepwater",
               "value": [
                 {
@@ -683,7 +705,7 @@
         },
         {
           "key": "reflect_loaded_layout_across_horizontal_axis",
-          "value": true
+          "value": false
         },
         {
           "key": "oceans",

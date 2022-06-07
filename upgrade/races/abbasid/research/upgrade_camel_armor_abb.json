@@ -498,7 +498,7 @@
             },
             {
               "key": "screen_name",
-              "value": 11183489
+              "value": 11225223
             },
             {
               "key": "global_unit_control_row",
@@ -597,6 +597,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_camel_armor_abb"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

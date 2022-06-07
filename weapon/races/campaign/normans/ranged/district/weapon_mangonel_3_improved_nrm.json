@@ -275,7 +275,7 @@
                 },
                 {
                   "key": "outer_radius",
-                  "value": 3
+                  "value": 3.5
                 },
                 {
                   "key": "is_two_dimensional",
@@ -1737,6 +1737,40 @@
                 {
                   "key": "base_damage_modifier",
                   "value": 24
+                }
+              ]
+            },
+            {
+              "key": "target_unit_type_multipliers",
+              "value": [
+                {
+                  "key": "weapon_multipliers",
+                  "value": [
+                    {
+                      "key": "suppression_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "penetration_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "accuracy_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "damage_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "unit_type",
+                  "value": "ranged"
+                },
+                {
+                  "key": "base_damage_modifier",
+                  "value": 6
                 }
               ]
             }

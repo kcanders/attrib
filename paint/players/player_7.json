@@ -4,6 +4,10 @@
       "key": "paint_bag",
       "value": [
         {
+          "key": "name",
+          "value": 11222649
+        },
+        {
           "key": "specular",
           "value": -1
         },

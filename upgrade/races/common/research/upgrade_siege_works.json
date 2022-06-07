@@ -483,7 +483,7 @@
                     },
                     {
                       "key": "int_value",
-                      "value": 3
+                      "value": 10
                     }
                   ]
                 }
@@ -599,6 +599,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_siege_works"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

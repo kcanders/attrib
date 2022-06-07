@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_18",
-      "value": "settlements_naval"
+      "value": "settlements"
     },
     {
       "key": "_3",
@@ -10,7 +10,7 @@
     },
     {
       "key": "_17",
-      "value": "settlements"
+      "value": "relics"
     },
     {
       "key": "_4",
@@ -18,15 +18,19 @@
     },
     {
       "key": "_7",
-      "value": "fish_river"
+      "value": "fish_deepwater_offshore"
     },
     {
       "key": "_9",
-      "value": "forests_large"
+      "value": "fish_shore"
     },
     {
       "key": "_16",
-      "value": "relics"
+      "value": "none"
+    },
+    {
+      "key": "_24",
+      "value": "stone_small"
     },
     {
       "key": "_0",
@@ -34,27 +38,27 @@
     },
     {
       "key": "_22",
-      "value": "stone"
-    },
-    {
-      "key": "_8",
-      "value": "fish_shore"
-    },
-    {
-      "key": "_21",
       "value": "sheep_small"
     },
     {
+      "key": "_8",
+      "value": "fish_river"
+    },
+    {
+      "key": "_21",
+      "value": "sheep_med"
+    },
+    {
       "key": "_13",
-      "value": "gold_small"
+      "value": "gold"
     },
     {
       "key": "_19",
-      "value": "sheep_large"
+      "value": "settlements_naval"
     },
     {
       "key": "_11",
-      "value": "forests_stealth"
+      "value": "forests_small"
     },
     {
       "key": "_2",
@@ -62,23 +66,23 @@
     },
     {
       "key": "_20",
-      "value": "sheep_med"
+      "value": "sheep_large"
     },
     {
       "key": "_15",
-      "value": "none"
-    },
-    {
-      "key": "_23",
-      "value": "stone_small"
-    },
-    {
-      "key": "_14",
       "value": "holy_sites"
     },
     {
+      "key": "_23",
+      "value": "stone"
+    },
+    {
+      "key": "_14",
+      "value": "gold_small"
+    },
+    {
       "key": "_12",
-      "value": "gold"
+      "value": "forests_stealth"
     },
     {
       "key": "_6",
@@ -94,7 +98,7 @@
     },
     {
       "key": "_10",
-      "value": "forests_small"
+      "value": "forests_large"
     }
   ]
 }

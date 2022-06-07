@@ -535,7 +535,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 210
+              "value": 158
             },
             {
               "key": "cost",
@@ -617,6 +617,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_siege_engineering"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },
