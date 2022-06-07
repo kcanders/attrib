@@ -885,11 +885,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0.4
+                  "value": 0.375
                 },
                 {
                   "key": "min",
-                  "value": 0.4
+                  "value": 0.375
                 }
               ]
             },

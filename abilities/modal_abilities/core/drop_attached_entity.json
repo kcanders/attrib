@@ -721,39 +721,6 @@
                   "value": "display"
                 }
               ]
-            },
-            {
-              "key": "required_statemodelbool",
-              "value": [
-                {
-                  "key": "key",
-                  "value": "is_carrying_entity"
-                },
-                {
-                  "key": "default_value",
-                  "value": false
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_statemodelbool"
-                },
-                {
-                  "key": "ui_name",
-                  "value": 11202697
-                },
-                {
-                  "key": "data_source_type",
-                  "value": "entity_datasource"
-                },
-                {
-                  "key": "compare_to_value",
-                  "value": true
-                },
-                {
-                  "key": "reason",
-                  "value": "usage"
-                }
-              ]
             }
           ]
         },
@@ -1105,6 +1072,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "ability_drop_carcass"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         },
         {
           "key": "ability_category",

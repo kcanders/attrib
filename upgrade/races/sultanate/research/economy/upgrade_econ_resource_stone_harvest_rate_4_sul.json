@@ -562,7 +562,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 1125
+              "value": 900
             },
             {
               "key": "cost",
@@ -648,6 +648,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         }
       ]
     },

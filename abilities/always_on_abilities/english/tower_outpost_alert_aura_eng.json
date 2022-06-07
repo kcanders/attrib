@@ -643,7 +643,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 25
+                      "value": 20
                     }
                   ]
                 }
@@ -877,6 +877,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "ability_category",

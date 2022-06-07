@@ -1,23 +1,62 @@
 {
   "data": [
     {
-      "key": "name",
-      "value": "community_council_development"
+      "key": "pbgid",
+      "value": 2074142
     },
     {
-      "key": "appID",
-      "value": 1781610
-    },
-    {
-      "key": "itemBundle",
+      "key": "dlc_info",
       "value": [
         {
-          "key": "$PBGNAME",
-          "value": "exclusive_council_pack_01"
+          "key": "name",
+          "value": "community_council_development"
         },
         {
-          "key": "$PBGMAP",
-          "value": "inventory_item_bundle"
+          "key": "xboxProductID",
+          "value": ""
+        },
+        {
+          "key": "ui_icon",
+          "value": ""
+        },
+        {
+          "key": "steamAppID",
+          "value": 1781610
+        },
+        {
+          "key": "itemBundle",
+          "value": [
+            {
+              "key": "name",
+              "value": "Community Council Exclusive"
+            },
+            {
+              "key": "items",
+              "value": [
+                {
+                  "key": "item",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "excl_tier_03_villager"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "monument"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "inventory_item_bundle_type",
+              "value": "DLC"
+            },
+            {
+              "key": "server_id",
+              "value": 1041
+            }
+          ]
         }
       ]
     }

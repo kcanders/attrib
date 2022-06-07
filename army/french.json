@@ -795,57 +795,6 @@
                   "value": [
                     {
                       "key": "image",
-                      "value": "races\\civ_info_icon-2"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11155033
-                    },
-                    {
-                      "key": "title",
-                      "value": 11155032
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
-                      "value": "races\\civ_info_icon-2"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11155037
-                    },
-                    {
-                      "key": "title",
-                      "value": 11155036
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
-                      "value": "races\\civ_info_icon-2"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11155035
-                    },
-                    {
-                      "key": "title",
-                      "value": 11155034
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
                       "value": "races\\civ_info_icon"
                     },
                     {
@@ -863,11 +812,79 @@
                   "value": [
                     {
                       "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227034
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227032
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227033
+                    },
+                    {
+                      "key": "title",
+                      "value": 11155036
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227035
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227040
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
                       "value": "races\\civ_info_icon"
                     },
                     {
                       "key": "description",
-                      "value": 11155039
+                      "value": 11227036
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227037
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227038
                     },
                     {
                       "key": "title",
@@ -884,11 +901,20 @@
                     },
                     {
                       "key": "description",
-                      "value": 11221004
+                      "value": 11227039
                     },
                     {
                       "key": "title",
                       "value": 11155038
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
                     }
                   ]
                 }

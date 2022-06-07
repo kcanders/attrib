@@ -4,10 +4,6 @@
       "key": "map_gen_layout",
       "value": [
         {
-          "key": "display_name",
-          "value": 11215140
-        },
-        {
           "key": "terrain_layout_script",
           "value": "test_maps\\naval_performance"
         },
@@ -105,6 +101,28 @@
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_deepwater_offshore",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -689,8 +707,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 270
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -699,6 +717,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 270
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -843,6 +865,48 @@
                             {
                               "key": "contested_excludes_starting_land_mass",
                               "value": true
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fish_deepwater_offshore",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
                             },
                             {
                               "key": "avoid_any_spawn_distance",
@@ -1873,8 +1937,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 330
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -1883,6 +1947,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 330
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -2027,6 +2095,48 @@
                             {
                               "key": "contested_excludes_starting_land_mass",
                               "value": true
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fish_deepwater_offshore",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
                             },
                             {
                               "key": "avoid_any_spawn_distance",
@@ -3057,8 +3167,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 420
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -3067,6 +3177,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 420
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -3211,6 +3325,48 @@
                             {
                               "key": "contested_excludes_starting_land_mass",
                               "value": true
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fish_deepwater_offshore",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
                             },
                             {
                               "key": "avoid_any_spawn_distance",
@@ -4241,8 +4397,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 500
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -4251,6 +4407,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 500
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -4395,6 +4555,48 @@
                             {
                               "key": "contested_excludes_starting_land_mass",
                               "value": true
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fish_deepwater_offshore",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
                             },
                             {
                               "key": "avoid_any_spawn_distance",
@@ -5425,8 +5627,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 580
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -5435,6 +5637,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 580
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -5579,6 +5785,48 @@
                             {
                               "key": "contested_excludes_starting_land_mass",
                               "value": true
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fish_deepwater_offshore",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
                             },
                             {
                               "key": "avoid_any_spawn_distance",

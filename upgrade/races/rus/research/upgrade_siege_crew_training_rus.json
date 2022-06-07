@@ -592,6 +592,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_siege_crew_training"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

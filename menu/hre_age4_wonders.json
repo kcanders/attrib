@@ -142,6 +142,19 @@
               ]
             }
           ]
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "ability_age_up"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

@@ -4,6 +4,19 @@
       "key": "camera_switchboard_bag",
       "value": [
         {
+          "key": "defaultClassicCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_autodeclinate_mp_classic"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
           "key": "defaultToolOrthoRightCamera",
           "value": [
             {

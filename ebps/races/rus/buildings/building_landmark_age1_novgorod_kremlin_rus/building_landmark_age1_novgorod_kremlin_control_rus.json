@@ -652,7 +652,7 @@
         },
         {
           "key": "weapon_priority",
-          "value": 10
+          "value": 80
         },
         {
           "key": "armor_layout_option",
@@ -1042,6 +1042,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1110,6 +1114,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1213,6 +1221,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1272,6 +1284,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -2012,7 +2041,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_outpost_arrows"
+                                  "value": "wpn_siege_kremlin_arrows"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -2224,7 +2253,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -2245,7 +2274,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -2812,7 +2841,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -2827,7 +2856,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -2848,7 +2877,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -3009,7 +3038,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -3024,7 +3053,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -3045,7 +3074,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -3206,7 +3235,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -3221,7 +3250,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -3242,7 +3271,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -3403,7 +3432,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -3418,7 +3447,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -3439,7 +3468,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -3600,7 +3629,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -3615,7 +3644,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -3636,7 +3665,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -3797,7 +3826,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -3812,7 +3841,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -3833,7 +3862,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -3994,7 +4023,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -4009,7 +4038,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -4030,7 +4059,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -4191,7 +4220,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_siege_wooden_fort_arrows_garrison"
+                                  "value": "wpn_siege_kremlin_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -4206,7 +4235,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0.5
+                              "value": 6
                             },
                             {
                               "key": "x",
@@ -4227,7 +4256,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -5208,6 +5237,10 @@
           "value": true
         },
         {
+          "key": "reset_production_progress_at_current_pop_cap",
+          "value": true
+        },
+        {
           "key": "$REF",
           "value": "ebpextensions\\spawner_ext"
         },
@@ -5549,7 +5582,7 @@
         },
         {
           "key": "range_metres",
-          "value": 16
+          "value": 32
         },
         {
           "key": "disable_generation_on_spawn",

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "key": "map_gen_ui_characteristic_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11227691
+        },
+        {
+          "key": "is_ui_low_resources_filter_entry_dummy",
+          "value": false
+        },
+        {
+          "key": "include_in_low_resources_filter",
+          "value": false
+        },
+        {
+          "key": "use_for_filters",
+          "value": true
+        },
+        {
+          "key": "icon",
+          "value": "fe\\map_characteristics\\open_map_icon"
+        },
+        {
+          "key": "include_in_high_resources_filter",
+          "value": false
+        },
+        {
+          "key": "is_ui_high_resources_filter_entry_dummy",
+          "value": false
+        },
+        {
+          "key": "image",
+          "value": "fe\\map_characteristics\\open_map"
+        },
+        {
+          "key": "description_tooltip",
+          "value": 11227690
+        },
+        {
+          "key": "ui_priority",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1520158
+    }
+  ]
+}

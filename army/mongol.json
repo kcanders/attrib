@@ -1016,11 +1016,28 @@
                   "value": [
                     {
                       "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227209
+                    },
+                    {
+                      "key": "title",
+                      "value": 11197942
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
                       "value": "races\\civ_info_icon-2"
                     },
                     {
                       "key": "description",
-                      "value": 11155017
+                      "value": 11227196
                     },
                     {
                       "key": "title",
@@ -1037,24 +1054,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11155058
-                    },
-                    {
-                      "key": "title",
-                      "value": 11155057
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
-                      "value": "races\\civ_info_icon-2"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11164781
+                      "value": 11227197
                     },
                     {
                       "key": "title",
@@ -1067,15 +1067,15 @@
                   "value": [
                     {
                       "key": "image",
-                      "value": "races\\civ_info_icon"
+                      "value": "races\\civ_info_icon-2"
                     },
                     {
                       "key": "description",
-                      "value": 11220573
+                      "value": 11227198
                     },
                     {
                       "key": "title",
-                      "value": 11197942
+                      "value": 11227200
                     }
                   ]
                 },
@@ -1088,7 +1088,58 @@
                     },
                     {
                       "key": "description",
-                      "value": 11155060
+                      "value": 11227201
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227199
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227202
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227203
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227205
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227204
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227206
                     },
                     {
                       "key": "title",
@@ -1105,7 +1156,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11197945
+                      "value": 11227207
                     },
                     {
                       "key": "title",

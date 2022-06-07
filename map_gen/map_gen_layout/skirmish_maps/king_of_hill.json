@@ -56,7 +56,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "basic_land_resource_placement_close"
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
                       "key": "$PBGMAP",
@@ -78,7 +78,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "basic_land_resource_placement_close"
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
                       "key": "$PBGMAP",
@@ -90,6 +90,28 @@
             },
             {
               "key": "settlements_naval",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_deepwater_offshore",
               "value": [
                 {
                   "key": "$REF",
@@ -137,67 +159,18 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": "map_gen\\score_map\\option\\product"
+                  "value": "map_gen\\score_map\\option\\reference"
                 },
                 {
-                  "key": "inputs",
+                  "key": "score_map",
                   "value": [
                     {
-                      "key": "reference",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\score_map\\option\\reference"
-                        },
-                        {
-                          "key": "score_map",
-                          "value": [
-                            {
-                              "key": "$PBGNAME",
-                              "value": "basic_land_resource_placement"
-                            },
-                            {
-                              "key": "$PBGMAP",
-                              "value": "map_gen\\score_map\\score_map"
-                            }
-                          ]
-                        }
-                      ]
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
-                      "key": "power",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\score_map\\option\\power"
-                        },
-                        {
-                          "key": "power",
-                          "value": 2
-                        },
-                        {
-                          "key": "input",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "map_gen\\score_map\\option\\reference"
-                            },
-                            {
-                              "key": "score_map",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "reachable_low_flat"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "map_gen\\score_map\\score_map"
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
                     }
                   ]
                 }
@@ -347,7 +320,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "basic_land_resource_placement"
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
                       "key": "$PBGMAP",
@@ -400,7 +373,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "basic_land_resource_placement_close"
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
                       "key": "$PBGMAP",
@@ -415,67 +388,18 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": "map_gen\\score_map\\option\\product"
+                  "value": "map_gen\\score_map\\option\\reference"
                 },
                 {
-                  "key": "inputs",
+                  "key": "score_map",
                   "value": [
                     {
-                      "key": "reference",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\score_map\\option\\reference"
-                        },
-                        {
-                          "key": "score_map",
-                          "value": [
-                            {
-                              "key": "$PBGNAME",
-                              "value": "basic_land_resource_placement"
-                            },
-                            {
-                              "key": "$PBGMAP",
-                              "value": "map_gen\\score_map\\score_map"
-                            }
-                          ]
-                        }
-                      ]
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
-                      "key": "power",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\score_map\\option\\power"
-                        },
-                        {
-                          "key": "power",
-                          "value": 2
-                        },
-                        {
-                          "key": "input",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "map_gen\\score_map\\option\\reference"
-                            },
-                            {
-                              "key": "score_map",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "reachable_low_flat"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "map_gen\\score_map\\score_map"
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
                     }
                   ]
                 }
@@ -493,7 +417,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "basic_land_resource_placement_close"
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
                       "key": "$PBGMAP",
@@ -515,7 +439,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "basic_land_resource_placement"
+                      "value": "basic_land_resource_placement_lowest_elevation"
                     },
                     {
                       "key": "$PBGMAP",
@@ -834,8 +758,8 @@
                       "value": 0.9
                     },
                     {
-                      "key": "contested_range",
-                      "value": 180
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -844,6 +768,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 180
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -958,11 +886,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 2
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -975,15 +903,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -991,7 +919,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -1101,11 +1029,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 2
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -1118,15 +1046,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -1134,7 +1062,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -1287,8 +1215,8 @@
                       "value": 0.9
                     },
                     {
-                      "key": "contested_range",
-                      "value": 240
+                      "key": "contested_range_neutral",
+                      "value": 110
                     },
                     {
                       "key": "$REF",
@@ -1297,6 +1225,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 200
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -1411,11 +1343,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 2
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -1428,15 +1360,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -1444,7 +1376,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -1554,11 +1486,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 3
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -1571,15 +1503,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -1587,7 +1519,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -1740,8 +1672,8 @@
                       "value": 0.9
                     },
                     {
-                      "key": "contested_range",
-                      "value": 330
+                      "key": "contested_range_neutral",
+                      "value": 120
                     },
                     {
                       "key": "$REF",
@@ -1750,6 +1682,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 220
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -1864,11 +1800,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 3
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -1881,15 +1817,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -1897,7 +1833,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -2007,11 +1943,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 3
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -2024,15 +1960,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -2040,7 +1976,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -2193,8 +2129,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 420
+                      "key": "contested_range_neutral",
+                      "value": 130
                     },
                     {
                       "key": "$REF",
@@ -2203,6 +2139,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 240
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -2317,11 +2257,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 4
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -2334,15 +2274,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -2350,7 +2290,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -2460,11 +2400,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 4
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -2477,15 +2417,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -2493,7 +2433,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -2646,8 +2586,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 500
+                      "key": "contested_range_neutral",
+                      "value": 140
                     },
                     {
                       "key": "$REF",
@@ -2656,6 +2596,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 260
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -2770,11 +2714,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 4
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -2787,15 +2731,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -2803,7 +2747,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },
@@ -2913,11 +2857,11 @@
                           "value": [
                             {
                               "key": "contested_range_min",
-                              "value": 0
+                              "value": 0.4
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 0
+                              "value": 4
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -2930,15 +2874,15 @@
                             },
                             {
                               "key": "avoid_same_spawn_distance",
-                              "value": 0
+                              "value": 100
                             },
                             {
                               "key": "contested_range_max",
-                              "value": 0
+                              "value": 0.6
                             },
                             {
                               "key": "spawn_priority",
-                              "value": 0
+                              "value": 5
                             },
                             {
                               "key": "contested_excludes_starting_land_mass",
@@ -2946,7 +2890,7 @@
                             },
                             {
                               "key": "avoid_any_spawn_distance",
-                              "value": 0
+                              "value": 15
                             }
                           ]
                         },

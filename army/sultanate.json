@@ -981,11 +981,28 @@
                   "value": [
                     {
                       "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227172
+                    },
+                    {
+                      "key": "title",
+                      "value": 11197946
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
                       "value": "races\\civ_info_icon-2"
                     },
                     {
                       "key": "description",
-                      "value": 11155075
+                      "value": 11227165
                     },
                     {
                       "key": "title",
@@ -1002,7 +1019,24 @@
                     },
                     {
                       "key": "description",
-                      "value": 11155077
+                      "value": 11227162
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227163
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227166
                     },
                     {
                       "key": "title",
@@ -1019,7 +1053,24 @@
                     },
                     {
                       "key": "description",
-                      "value": 11155079
+                      "value": 11227169
+                    },
+                    {
+                      "key": "title",
+                      "value": 11227168
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11227167
                     },
                     {
                       "key": "title",
@@ -1036,24 +1087,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11219947
-                    },
-                    {
-                      "key": "title",
-                      "value": 11197946
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
-                      "value": "races\\civ_info_icon"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11197948
+                      "value": 11227170
                     },
                     {
                       "key": "title",
@@ -1070,7 +1104,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11197949
+                      "value": 11227171
                     },
                     {
                       "key": "title",

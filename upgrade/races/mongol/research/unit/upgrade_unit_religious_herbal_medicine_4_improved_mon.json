@@ -660,7 +660,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 45
             },
             {
               "key": "cost",
@@ -675,7 +675,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 350
+                  "value": 275
                 },
                 {
                   "key": "militia_hre",
@@ -687,7 +687,7 @@
                 },
                 {
                   "key": "stone",
-                  "value": 350
+                  "value": 275
                 },
                 {
                   "key": "command",
@@ -742,6 +742,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_herbal_medicine"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

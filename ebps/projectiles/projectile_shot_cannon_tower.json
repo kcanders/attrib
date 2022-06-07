@@ -137,11 +137,11 @@
           "value": [
             {
               "key": "speed_min",
-              "value": 33
+              "value": 35
             },
             {
               "key": "height_min",
-              "value": 7
+              "value": 3
             },
             {
               "key": "interpolate_distance_min",
@@ -149,11 +149,11 @@
             },
             {
               "key": "height_max",
-              "value": 12
+              "value": 5
             },
             {
               "key": "speed_max",
-              "value": 33
+              "value": 40
             },
             {
               "key": "min_distance_to_enable",
@@ -165,7 +165,7 @@
             },
             {
               "key": "interpolate_distance_max",
-              "value": 20
+              "value": 40
             },
             {
               "key": "random_rotation_during_flight",
@@ -316,7 +316,7 @@
         },
         {
           "key": "speed",
-          "value": 42
+          "value": 35
         },
         {
           "key": "life_time_while_alive",

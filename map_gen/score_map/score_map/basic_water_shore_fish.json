@@ -40,7 +40,7 @@
                           "value": [
                             {
                               "key": "$PBGNAME",
-                              "value": "reachable_shoreline"
+                              "value": "reachable_shoreline_close"
                             },
                             {
                               "key": "$PBGMAP",

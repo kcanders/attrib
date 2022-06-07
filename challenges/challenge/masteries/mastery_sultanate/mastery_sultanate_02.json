@@ -33,6 +33,51 @@
                       "key": "values",
                       "value": [
                         {
+                          "key": "activeugccount",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\activeugccount"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "activeugccount",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\activeugccount"
+                            },
+                            {
+                              "key": "value",
+                              "value": 0
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
                           "key": "raceid",
                           "value": [
                             {
@@ -66,6 +111,83 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "not"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "matchtypeid",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\matchtypeid"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "matchtypeid",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "trial"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "multiplayer\\match_type"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -93,7 +215,7 @@
         },
         {
           "key": "award_source",
-          "value": "ClientMatchReport"
+          "value": "Client"
         },
         {
           "key": "update_rule",
@@ -393,7 +515,7 @@
                                 },
                                 {
                                   "key": "value",
-                                  "value": 10
+                                  "value": 5
                                 }
                               ]
                             }

@@ -136,8 +136,49 @@
           "key": "trajectory_option",
           "value": [
             {
+              "key": "speed_min",
+              "value": 20
+            },
+            {
+              "key": "height_min",
+              "value": 1
+            },
+            {
+              "key": "interpolate_distance_min",
+              "value": 10
+            },
+            {
+              "key": "height_max",
+              "value": 2
+            },
+            {
+              "key": "speed_max",
+              "value": 55
+            },
+            {
+              "key": "min_distance_to_enable",
+              "value": 0
+            },
+            {
               "key": "$REF",
-              "value": "options\\none"
+              "value": "options\\ebpextensions\\projectileext\\projectile_trajectory_option"
+            },
+            {
+              "key": "interpolate_distance_max",
+              "value": 35
+            },
+            {
+              "key": "random_rotation_during_flight",
+              "value": [
+              ]
+            },
+            {
+              "key": "time_seconds",
+              "value": 0
+            },
+            {
+              "key": "slope_aggression",
+              "value": 0
             }
           ]
         },
@@ -275,7 +316,7 @@
         },
         {
           "key": "speed",
-          "value": 110
+          "value": 0
         },
         {
           "key": "life_time_while_alive",

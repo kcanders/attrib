@@ -311,6 +311,28 @@
               ]
             },
             {
+              "key": "fish_deepwater_offshore",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "fish_deepwater",
               "value": [
                 {
@@ -1280,8 +1302,8 @@
                       "value": 0.9
                     },
                     {
-                      "key": "contested_range",
-                      "value": 240
+                      "key": "contested_range_neutral",
+                      "value": 100
                     },
                     {
                       "key": "$REF",
@@ -1290,6 +1312,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 180
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -1683,8 +1709,8 @@
                       "value": 0.9
                     },
                     {
-                      "key": "contested_range",
-                      "value": 300
+                      "key": "contested_range_neutral",
+                      "value": 110
                     },
                     {
                       "key": "$REF",
@@ -1693,6 +1719,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 200
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -2086,8 +2116,8 @@
                       "value": 0.9
                     },
                     {
-                      "key": "contested_range",
-                      "value": 400
+                      "key": "contested_range_neutral",
+                      "value": 120
                     },
                     {
                       "key": "$REF",
@@ -2096,6 +2126,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 220
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -2430,8 +2464,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 500
+                      "key": "contested_range_neutral",
+                      "value": 130
                     },
                     {
                       "key": "$REF",
@@ -2440,6 +2474,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 240
                     },
                     {
                       "key": "player_resource_access_distance",
@@ -2774,8 +2812,8 @@
                       "value": 0.95
                     },
                     {
-                      "key": "contested_range",
-                      "value": 580
+                      "key": "contested_range_neutral",
+                      "value": 140
                     },
                     {
                       "key": "$REF",
@@ -2784,6 +2822,10 @@
                     {
                       "key": "solo_play_contested_area_end",
                       "value": 0
+                    },
+                    {
+                      "key": "contested_range_player",
+                      "value": 260
                     },
                     {
                       "key": "player_resource_access_distance",

@@ -33,6 +33,51 @@
                       "key": "values",
                       "value": [
                         {
+                          "key": "activeugccount",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\activeugccount"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "activeugccount",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\activeugccount"
+                            },
+                            {
+                              "key": "value",
+                              "value": 0
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
                           "key": "raceid",
                           "value": [
                             {
@@ -93,7 +138,7 @@
         },
         {
           "key": "award_source",
-          "value": "ClientMatchReport"
+          "value": "Client"
         },
         {
           "key": "update_rule",
@@ -154,7 +199,7 @@
                 },
                 {
                   "key": "tracking_event",
-                  "value": "Upgraded"
+                  "value": "CustomEvent"
                 },
                 {
                   "key": "trigger_rules",
@@ -182,33 +227,24 @@
                               "key": "values",
                               "value": [
                                 {
-                                  "key": "upgradetype",
+                                  "key": "customevent",
                                   "value": [
                                     {
                                       "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\upgradetype"
+                                      "value": "challenges\\requirement_values\\dynamic\\customevent"
                                     }
                                   ]
                                 },
                                 {
-                                  "key": "upgradetype",
+                                  "key": "customevent",
                                   "value": [
                                     {
                                       "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                      "value": "challenges\\requirement_values\\constant\\customevent"
                                     },
                                     {
                                       "key": "value",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
-                                          "value": "upgrade_military_building_heal_aura_mon"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "upgrade"
-                                        }
-                                      ]
+                                      "value": "MonKurultaiHealAmount"
                                     }
                                   ]
                                 }
@@ -224,7 +260,7 @@
                               "value": [
                                 {
                                   "key": "op",
-                                  "value": 4
+                                  "value": 0
                                 },
                                 {
                                   "key": "$REF",
@@ -303,6 +339,23 @@
                             {
                               "key": "$REF",
                               "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "heal_with_khan_kurultai"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
                             }
                           ]
                         }

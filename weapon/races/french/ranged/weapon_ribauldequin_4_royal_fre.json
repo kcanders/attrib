@@ -1608,11 +1608,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 4
+                  "value": 2
                 },
                 {
                   "key": "min",
-                  "value": 4
+                  "value": 2
                 }
               ]
             },
@@ -1638,11 +1638,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 5
+                  "value": 0
                 },
                 {
                   "key": "min",
-                  "value": 5
+                  "value": 0
                 }
               ]
             },

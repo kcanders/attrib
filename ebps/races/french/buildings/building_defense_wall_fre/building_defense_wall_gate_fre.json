@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "gate"
+              "value": "gate_stone"
             },
             {
               "key": "$PBGMAP",
@@ -1191,6 +1191,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1263,6 +1267,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1353,6 +1361,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1412,6 +1424,23 @@
         {
           "key": "map_mark",
           "value": "Structure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1873,6 +1902,10 @@
               ]
             }
           ]
+        },
+        {
+          "key": "take_priority",
+          "value": true
         },
         {
           "key": "override_boundary_cells",
@@ -2545,7 +2578,7 @@
             },
             {
               "key": "on_construction_complete_entity_state_tree_ref",
-              "value": ""
+              "value": "building_construction_complete\\buildings\\stone_wall_construction_plan_complete"
             }
           ]
         },

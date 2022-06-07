@@ -812,6 +812,19 @@
           "value": ""
         },
         {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "ability_scouting_falcon"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
+        },
+        {
           "key": "ability_category",
           "value": [
             {

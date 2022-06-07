@@ -227,7 +227,7 @@
         },
         {
           "key": "include_world_neutral_enemies",
-          "value": false
+          "value": true
         },
         {
           "key": "ignore_behind_wall_targets",

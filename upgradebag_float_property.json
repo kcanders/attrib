@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_42",
-      "value": "weapon_range"
+      "value": "trade_modifier_food_fre"
     },
     {
       "key": "_18",
@@ -15,6 +15,10 @@
     {
       "key": "_36",
       "value": "raid_bounty_gold"
+    },
+    {
+      "key": "_48",
+      "value": "wing_build_time_abb"
     },
     {
       "key": "_17",
@@ -61,6 +65,10 @@
       "value": "dummy_damage"
     },
     {
+      "key": "_45",
+      "value": "trade_modifier_wood_fre"
+    },
+    {
       "key": "_19",
       "value": "gather_rate_stone"
     },
@@ -74,7 +82,7 @@
     },
     {
       "key": "_43",
-      "value": "weapon_reload"
+      "value": "trade_modifier_gold_fre"
     },
     {
       "key": "_35",
@@ -83,6 +91,10 @@
     {
       "key": "_2",
       "value": "armor_range"
+    },
+    {
+      "key": "_47",
+      "value": "weapon_reload"
     },
     {
       "key": "_20",
@@ -95,6 +107,10 @@
     {
       "key": "_37",
       "value": "raid_bounty_wood"
+    },
+    {
+      "key": "_46",
+      "value": "weapon_range"
     },
     {
       "key": "_34",
@@ -158,7 +174,7 @@
     },
     {
       "key": "_44",
-      "value": "wing_build_time_abb"
+      "value": "trade_modifier_stone_fre"
     },
     {
       "key": "_40",

@@ -597,7 +597,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": false
+          "value": true
         },
         {
           "key": "QueryTree_States",
@@ -863,6 +863,10 @@
               "value": "options\\none"
             }
           ]
+        },
+        {
+          "key": "attack_move_command_requires_valid_range",
+          "value": false
         },
         {
           "key": "reaction_combat_delay_seconds",

@@ -406,7 +406,7 @@
           "value": [
             {
               "key": "damage_type",
-              "value": "Fire"
+              "value": "Ranged"
             },
             {
               "key": "allow_overkill",
@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 10
+              "value": 15
             },
             {
               "key": "min",
-              "value": 10
+              "value": 15
             },
             {
               "key": "on_penetrated_state_trees",
@@ -803,11 +803,11 @@
               "value": [
                 {
                   "key": "speed_horizontal",
-                  "value": 10000
+                  "value": 50
                 },
                 {
                   "key": "max_right",
-                  "value": 45
+                  "value": 85
                 },
                 {
                   "key": "max_down",
@@ -819,11 +819,11 @@
                 },
                 {
                   "key": "speed_vertical",
-                  "value": 10000
+                  "value": 50
                 },
                 {
                   "key": "max_left",
-                  "value": -45
+                  "value": -85
                 }
               ]
             },
@@ -964,7 +964,7 @@
             },
             {
               "key": "wind_up",
-              "value": 0
+              "value": 0.25
             },
             {
               "key": "wind_down",
@@ -1255,7 +1255,7 @@
             },
             {
               "key": "angle_scatter",
-              "value": 4
+              "value": 3
             },
             {
               "key": "movement_scatter_angle_multiplier",
@@ -1320,7 +1320,7 @@
             },
             {
               "key": "distance_scatter_max",
-              "value": 4
+              "value": 3
             }
           ]
         },
@@ -1400,11 +1400,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0.125
+                  "value": 0
                 },
                 {
                   "key": "min",
-                  "value": 0.125
+                  "value": 0
                 }
               ]
             },
@@ -1522,7 +1522,7 @@
             },
             {
               "key": "max",
-              "value": 25
+              "value": 20
             },
             {
               "key": "min",
@@ -1534,7 +1534,7 @@
             },
             {
               "key": "max_animation_angle_distance",
-              "value": 20
+              "value": 27
             }
           ]
         },
@@ -1563,11 +1563,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 2
+                  "value": 0.5
                 },
                 {
                   "key": "min",
-                  "value": 2
+                  "value": 0.5
                 }
               ]
             },
@@ -1620,7 +1620,7 @@
             },
             {
               "key": "is_siege_only",
-              "value": true
+              "value": false
             }
           ]
         },
@@ -1644,11 +1644,11 @@
       "value": [
         {
           "key": "$PBGNAME",
-          "value": ""
+          "value": "weapon_war_elephant_tower_archer_4_sul"
         },
         {
           "key": "$PBGMAP",
-          "value": ""
+          "value": "weapon"
         }
       ]
     }

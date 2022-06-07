@@ -108,6 +108,19 @@
         {
           "key": "screen_name",
           "value": 11142079
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "select_inline_menu_3"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

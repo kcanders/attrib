@@ -94,6 +94,19 @@
         {
           "key": "screen_name",
           "value": 11160947
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         }
       ]
     },

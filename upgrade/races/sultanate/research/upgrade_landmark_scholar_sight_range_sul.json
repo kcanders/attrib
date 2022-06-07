@@ -553,7 +553,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 135
+              "value": 157
             },
             {
               "key": "cost",
@@ -635,6 +635,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_all_seeing_eye_sul"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

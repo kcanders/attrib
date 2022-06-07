@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "fractal_shift_amplitude",
-              "value": 0.03
+              "value": 0.003
             },
             {
               "key": "fractal_shift_direction_bias",
@@ -20,11 +20,11 @@
             },
             {
               "key": "fractal_shift_variance",
-              "value": 0.1
+              "value": 0.01
             },
             {
               "key": "height_over_width",
-              "value": -0.4
+              "value": -0.3
             }
           ]
         },
@@ -46,15 +46,15 @@
           "value": -7114533
         },
         {
-          "key": "is_lake_source",
-          "value": false
+          "key": "terrain_water_type",
+          "value": 0
         },
         {
           "key": "local_distributions",
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "local_dist_forest_stealth"
+              "value": "local_dist_forest_stealth_heavy"
             },
             {
               "key": "$PBGMAP",

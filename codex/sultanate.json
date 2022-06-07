@@ -546,7 +546,7 @@
                                           "value": [
                                             {
                                               "key": "ui_position_column",
-                                              "value": 0
+                                              "value": 1
                                             },
                                             {
                                               "key": "ui_position_row",

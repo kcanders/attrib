@@ -510,7 +510,7 @@
                     },
                     {
                       "key": "outer_radius",
-                      "value": 20
+                      "value": 30
                     },
                     {
                       "key": "is_two_dimensional",
@@ -582,7 +582,7 @@
         },
         {
           "key": "entity_tree",
-          "value": "kurultai_khan_buff_aura_mon"
+          "value": "kurultai_khan_detection_mon"
         },
         {
           "key": "caster_close_in_distance",
@@ -813,7 +813,7 @@
         },
         {
           "key": "range",
-          "value": 20
+          "value": 30
         },
         {
           "key": "disable_combat",
@@ -895,6 +895,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "ability_category",

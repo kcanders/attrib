@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "wonder_age2"
+              "value": "kurultai_landmark_mon"
             },
             {
               "key": "$PBGMAP",
@@ -957,6 +957,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1027,6 +1031,10 @@
           "value": true
         },
         {
+          "key": "reticule_override_size",
+          "value": 0
+        },
+        {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
         },
@@ -1089,18 +1097,22 @@
             },
             {
               "key": "formatter",
-              "value": 11215385
+              "value": 11226784
             },
             {
               "key": "formatter_arguments",
               "value": [
                 {
                   "key": "int_value",
-                  "value": 25
+                  "value": 1
                 },
                 {
                   "key": "int_value",
-                  "value": 30
+                  "value": 1
+                },
+                {
+                  "key": "int_value",
+                  "value": 25
                 }
               ]
             }
@@ -1130,6 +1142,10 @@
         {
           "key": "minimap_color",
           "value": -1
+        },
+        {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
         },
         {
           "key": "selection_type",
@@ -1191,6 +1207,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1606,6 +1639,19 @@
                 {
                   "key": "$PBGNAME",
                   "value": "pack_landmark_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "kurultai_healing_aura_mon"
                 },
                 {
                   "key": "$PBGMAP",

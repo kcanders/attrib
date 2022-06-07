@@ -328,7 +328,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11200345
+                  "value": 11225983
                 },
                 {
                   "key": "requirements",
@@ -405,7 +405,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11200346
+                  "value": 11225984
                 },
                 {
                   "key": "requirements",
@@ -482,7 +482,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11171291
+                  "value": 11225985
                 },
                 {
                   "key": "requirements",
@@ -539,160 +539,6 @@
                         {
                           "key": "reason",
                           "value": "usage_and_display"
-                        },
-                        {
-                          "key": "is_present",
-                          "value": true
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "help_text_format",
-                  "value": 11166338
-                }
-              ]
-            },
-            {
-              "key": "context",
-              "value": [
-                {
-                  "key": "help_text",
-                  "value": 11171295
-                },
-                {
-                  "key": "requirements",
-                  "value": [
-                    {
-                      "key": "required_player_upgrade",
-                      "value": [
-                        {
-                          "key": "include_pbg_parenting",
-                          "value": [
-                            {
-                              "key": "include_child_pbgs",
-                              "value": false
-                            },
-                            {
-                              "key": "include_parent_pbgs",
-                              "value": false
-                            }
-                          ]
-                        },
-                        {
-                          "key": "include_queued",
-                          "value": false
-                        },
-                        {
-                          "key": "include_completed",
-                          "value": true
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_player_upgrade"
-                        },
-                        {
-                          "key": "max_completed",
-                          "value": 100
-                        },
-                        {
-                          "key": "min_completed",
-                          "value": 1
-                        },
-                        {
-                          "key": "upgrade_name",
-                          "value": [
-                            {
-                              "key": "$PBGNAME",
-                              "value": "upgrade_inspired_infantry_hre"
-                            },
-                            {
-                              "key": "$PBGMAP",
-                              "value": "upgrade"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        },
-                        {
-                          "key": "is_present",
-                          "value": true
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "help_text_format",
-                  "value": 11166338
-                }
-              ]
-            },
-            {
-              "key": "context",
-              "value": [
-                {
-                  "key": "help_text",
-                  "value": 11171280
-                },
-                {
-                  "key": "requirements",
-                  "value": [
-                    {
-                      "key": "required_player_upgrade",
-                      "value": [
-                        {
-                          "key": "include_pbg_parenting",
-                          "value": [
-                            {
-                              "key": "include_child_pbgs",
-                              "value": false
-                            },
-                            {
-                              "key": "include_parent_pbgs",
-                              "value": false
-                            }
-                          ]
-                        },
-                        {
-                          "key": "include_queued",
-                          "value": false
-                        },
-                        {
-                          "key": "include_completed",
-                          "value": true
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_player_upgrade"
-                        },
-                        {
-                          "key": "max_completed",
-                          "value": 100
-                        },
-                        {
-                          "key": "min_completed",
-                          "value": 1
-                        },
-                        {
-                          "key": "upgrade_name",
-                          "value": [
-                            {
-                              "key": "$PBGNAME",
-                              "value": "dark_age"
-                            },
-                            {
-                              "key": "$PBGMAP",
-                              "value": "upgrade"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
                         },
                         {
                           "key": "is_present",
@@ -1206,6 +1052,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "ability_category",

@@ -1,23 +1,101 @@
 {
   "data": [
     {
-      "key": "name",
-      "value": "digital_deluxe_development"
+      "key": "pbgid",
+      "value": 2074144
     },
     {
-      "key": "appID",
-      "value": 1658680
-    },
-    {
-      "key": "itemBundle",
+      "key": "dlc_info",
       "value": [
         {
-          "key": "$PBGNAME",
-          "value": "exclusive_steam_pack_01"
+          "key": "name",
+          "value": "digital_deluxe_development"
         },
         {
-          "key": "$PBGMAP",
-          "value": "inventory_item_bundle"
+          "key": "xboxProductID",
+          "value": ""
+        },
+        {
+          "key": "ui_icon",
+          "value": ""
+        },
+        {
+          "key": "steamAppID",
+          "value": 1658680
+        },
+        {
+          "key": "itemBundle",
+          "value": [
+            {
+              "key": "name",
+              "value": "Steam Digital Deluxe Exclusive"
+            },
+            {
+              "key": "items",
+              "value": [
+                {
+                  "key": "item",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "excl_tier_03_wolf"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "monument"
+                    }
+                  ]
+                },
+                {
+                  "key": "item",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "excl_steam_sigil_wolf"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "coat_of_arms_part"
+                    }
+                  ]
+                },
+                {
+                  "key": "item",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "excl_steam_sigil_frame_mountain"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "coat_of_arms_part"
+                    }
+                  ]
+                },
+                {
+                  "key": "item",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "excl_steam_wolf"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "player_portrait"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "inventory_item_bundle_type",
+              "value": "DLC"
+            },
+            {
+              "key": "server_id",
+              "value": 1040
+            }
+          ]
         }
       ]
     }

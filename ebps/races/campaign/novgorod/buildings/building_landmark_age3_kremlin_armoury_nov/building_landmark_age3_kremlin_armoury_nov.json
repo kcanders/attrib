@@ -678,6 +678,10 @@
         {
           "key": "unit_type_list_selection_keybind_only",
           "value": [
+            {
+              "key": "unit_type",
+              "value": "research_building"
+            }
           ]
         },
         {
@@ -929,7 +933,7 @@
         },
         {
           "key": "extra_text",
-          "value": 11185349
+          "value": 11185325
         },
         {
           "key": "kill_type",
@@ -955,6 +959,10 @@
         {
           "key": "selection_scale",
           "value": 1
+        },
+        {
+          "key": "reticule_override_enabled",
+          "value": false
         },
         {
           "key": "extra_text_world_formatter",
@@ -1025,6 +1033,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1128,6 +1140,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1187,6 +1203,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",

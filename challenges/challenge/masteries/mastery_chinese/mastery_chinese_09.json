@@ -33,6 +33,51 @@
                       "key": "values",
                       "value": [
                         {
+                          "key": "activeugccount",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\activeugccount"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "activeugccount",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\activeugccount"
+                            },
+                            {
+                              "key": "value",
+                              "value": 0
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
                           "key": "raceid",
                           "value": [
                             {
@@ -93,7 +138,7 @@
         },
         {
           "key": "award_source",
-          "value": "ClientMatchReport"
+          "value": "Client"
         },
         {
           "key": "update_rule",
@@ -142,7 +187,7 @@
               "value": [
                 {
                   "key": "name",
-                  "value": "dynasty_unit_building_with_influence"
+                  "value": "spirit_way_upgrade"
                 },
                 {
                   "key": "enabled",
@@ -154,7 +199,7 @@
                 },
                 {
                   "key": "tracking_event",
-                  "value": "CustomEvent"
+                  "value": "Upgraded"
                 },
                 {
                   "key": "trigger_rules",
@@ -167,7 +212,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "equal"
+                              "value": "and"
                             },
                             {
                               "key": "$REF",
@@ -176,33 +221,189 @@
                             {
                               "key": "requirements",
                               "value": [
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "in"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "upgradetype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\upgradetype"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "upgradetype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "upgrade_dynasty_econ_bonus_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "upgrade"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "upgradetype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "upgrade_unit_firelancer_4_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "upgrade"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "upgradetype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "upgrade_unit_repeater_crossbow_3_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "upgrade"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "upgradetype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "upgrade_unit_repeater_crossbow_4_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "upgrade"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "equal"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Source"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_landmark_age3_spirit_way_control_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
                               ]
                             },
                             {
                               "key": "values",
                               "value": [
-                                {
-                                  "key": "customevent",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\customevent"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "customevent",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\customevent"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": "ChiDynastyUnitSpawnSpiritWayInfluenced"
-                                    }
-                                  ]
-                                }
                               ]
                             }
                           ]
@@ -264,7 +465,7 @@
                                 },
                                 {
                                   "key": "value",
-                                  "value": "dynasty_unit_building_with_influence"
+                                  "value": "spirit_way_upgrade"
                                 }
                               ]
                             },
@@ -277,7 +478,7 @@
                                 },
                                 {
                                   "key": "value",
-                                  "value": 6
+                                  "value": 4
                                 }
                               ]
                             }
@@ -294,6 +495,23 @@
                             {
                               "key": "$REF",
                               "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "spirit_way_upgrade"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
                             }
                           ]
                         }

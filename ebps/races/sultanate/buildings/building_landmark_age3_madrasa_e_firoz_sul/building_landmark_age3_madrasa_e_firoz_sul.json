@@ -824,32 +824,6 @@
         {
           "key": "ui_extra_infos",
           "value": [
-            {
-              "key": "ui_extra_info",
-              "value": [
-                {
-                  "key": "description_formatter",
-                  "value": [
-                    {
-                      "key": "$REF",
-                      "value": ""
-                    }
-                  ]
-                },
-                {
-                  "key": "icon",
-                  "value": "influence_buff"
-                },
-                {
-                  "key": "$REF",
-                  "value": "info\\ui_extra_info"
-                },
-                {
-                  "key": "description",
-                  "value": 11191901
-                }
-              ]
-            }
           ]
         },
         {
@@ -979,6 +953,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1051,6 +1029,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1141,6 +1123,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1200,6 +1186,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1575,7 +1578,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "scholar_research_behavior_sul"
+                  "value": "hisar_academy_sul"
                 },
                 {
                   "key": "$PBGMAP",
@@ -1677,126 +1680,6 @@
       "value": 135890
     },
     {
-      "key": "district_bonuses_ext",
-      "value": [
-        {
-          "key": "district_bonuses",
-          "value": [
-            {
-              "key": "district_bonus",
-              "value": [
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "dynamic_requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "options\\ebpextensions\\districtbonusesext\\requirements\\district_bonus_entity_requirement"
-                    },
-                    {
-                      "key": "satisfying_entity_groups",
-                      "value": [
-                        {
-                          "key": "satisfying_entity_group",
-                          "value": [
-                            {
-                              "key": "satisfying_entities",
-                              "value": [
-                                {
-                                  "key": "entity",
-                                  "value": [
-                                    {
-                                      "key": "$PBGNAME",
-                                      "value": "building_unit_religious_control_sul"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "ebps"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "entity",
-                                  "value": [
-                                    {
-                                      "key": "$PBGNAME",
-                                      "value": "building_tech_university_control_sul"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "ebps"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "entity",
-                                  "value": [
-                                    {
-                                      "key": "$PBGNAME",
-                                      "value": "building_landmark_age1_quwwat_ul_islam_control_sul"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "ebps"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "action_tree",
-                  "value": [
-                    {
-                      "key": "start_suspended",
-                      "value": false
-                    },
-                    {
-                      "key": "ActionTree_OpeningBranch",
-                      "value": "district_mosque_sul"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "state_tree_reference_info"
-                    }
-                  ]
-                },
-                {
-                  "key": "$REF",
-                  "value": "district_bonus"
-                },
-                {
-                  "key": "id",
-                  "value": 1466131
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\district_bonuses_ext"
-        },
-        {
-          "key": "update_on_construction_complete",
-          "value": true
-        },
-        {
-          "key": "update_on_upgrade_changed",
-          "value": false
-        }
-      ]
-    },
-    {
       "key": "action_apply_ext",
       "value": [
         {
@@ -1827,24 +1710,6 @@
                 {
                   "key": "state_tree",
                   "value": "building_action_apply\\buildings\\landmark_age_3_action_apply"
-                }
-              ]
-            },
-            {
-              "key": "container",
-              "value": [
-                {
-                  "key": "state_tree",
-                  "value": "influence_invalid_sul"
-                }
-              ]
-            },
-            {
-              "key": "container",
-              "value": [
-                {
-                  "key": "state_tree",
-                  "value": "landmark_completion_bonus_sul\\age_3_madrasa_e_firoz_complete_sul"
                 }
               ]
             }
@@ -2650,35 +2515,6 @@
         {
           "key": "prefer_spots_on_side_with_leader",
           "value": false
-        }
-      ]
-    },
-    {
-      "key": "district_generator_ext",
-      "value": [
-        {
-          "key": "is_root_generator",
-          "value": false
-        },
-        {
-          "key": "district_palette_id",
-          "value": 1
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\district_generator_ext"
-        },
-        {
-          "key": "range_metres",
-          "value": 4
-        },
-        {
-          "key": "disable_generation_on_spawn",
-          "value": false
-        },
-        {
-          "key": "generator_value",
-          "value": 0
         }
       ]
     },

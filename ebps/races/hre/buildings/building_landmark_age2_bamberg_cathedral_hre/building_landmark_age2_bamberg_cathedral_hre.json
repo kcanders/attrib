@@ -802,6 +802,14 @@
             {
               "key": "unit_type",
               "value": "monastery"
+            },
+            {
+              "key": "unit_type",
+              "value": "production_building"
+            },
+            {
+              "key": "unit_type",
+              "value": "military_production_building"
             }
           ]
         },
@@ -1030,6 +1038,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1098,6 +1110,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1169,11 +1185,7 @@
               "value": [
                 {
                   "key": "int_value",
-                  "value": 200
-                },
-                {
-                  "key": "int_value",
-                  "value": 2
+                  "value": 100
                 }
               ]
             }
@@ -1203,6 +1215,10 @@
         {
           "key": "minimap_color",
           "value": -1
+        },
+        {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
         },
         {
           "key": "selection_type",
@@ -1264,6 +1280,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1728,6 +1761,84 @@
         {
           "key": "standard_upgrades",
           "value": [
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_religious_herbal_medicine_4_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_religious_piety_4_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_religious_tithe_barn_4"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_benediction_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_devoutness_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_inspired_infantry_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            }
           ]
         },
         {
@@ -2787,6 +2898,233 @@
         },
         {
           "key": "prefer_spots_on_side_with_leader",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "spawner_ext",
+      "value": [
+        {
+          "key": "bonus_xp_from_hold_list",
+          "value": [
+          ]
+        },
+        {
+          "key": "enforce_minimum_clearance_at_spawn_positions_search_range",
+          "value": 30
+        },
+        {
+          "key": "spawn_items",
+          "value": [
+            {
+              "key": "spawn_item",
+              "value": [
+                {
+                  "key": "squad",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "unit_monk_1_hre"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "ui_menu",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "ui_position",
+                  "value": [
+                    {
+                      "key": "ui_position_column",
+                      "value": 1
+                    },
+                    {
+                      "key": "ui_position_row",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "number_to_queue_up_to_when_modified",
+                  "value": 5
+                },
+                {
+                  "key": "entity",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "additional_squads",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "item_cost_adjustment",
+                  "value": [
+                    {
+                      "key": "food",
+                      "value": 0
+                    },
+                    {
+                      "key": "action",
+                      "value": 0
+                    },
+                    {
+                      "key": "gold",
+                      "value": 0
+                    },
+                    {
+                      "key": "militia_hre",
+                      "value": 0
+                    },
+                    {
+                      "key": "popcap",
+                      "value": 0
+                    },
+                    {
+                      "key": "stone",
+                      "value": 0
+                    },
+                    {
+                      "key": "command",
+                      "value": 0
+                    },
+                    {
+                      "key": "wood",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "spawn_at_map_entry_point",
+                  "value": false
+                },
+                {
+                  "key": "can_be_cancelled",
+                  "value": true
+                },
+                {
+                  "key": "number_to_spawn",
+                  "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "enforce_minimum_clearance_if_entities_blocking",
+          "value": true
+        },
+        {
+          "key": "spawn_to_hold_try_first",
+          "value": false
+        },
+        {
+          "key": "enforce_minimum_clearance_at_spawn_positions",
+          "value": true
+        },
+        {
+          "key": "reset_production_progress_at_current_pop_cap",
+          "value": true
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\spawner_ext"
+        },
+        {
+          "key": "reinforce_requirements_openingbranch",
+          "value": ""
+        },
+        {
+          "key": "reinforce_requirements",
+          "value": [
+          ]
+        },
+        {
+          "key": "production_item_completed_openingbranch",
+          "value": "building_production_item_completed\\Master\\building_production_item_complete_religious"
+        },
+        {
+          "key": "max_queue_size_override",
+          "value": -1
+        },
+        {
+          "key": "reinforce_radius",
+          "value": 0
+        },
+        {
+          "key": "can_rally",
+          "value": true
+        },
+        {
+          "key": "animated_spawn_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "queue_requirements",
+          "value": [
+          ]
+        },
+        {
+          "key": "rally_pass_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "infantry"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "pass_types"
+            }
+          ]
+        },
+        {
+          "key": "queue_requirements_openingbranch",
+          "value": ""
+        },
+        {
+          "key": "must_be_in_supply",
           "value": false
         }
       ]

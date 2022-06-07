@@ -1074,6 +1074,19 @@
           "value": ""
         },
         {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "villager_repair"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
+        },
+        {
           "key": "ability_category",
           "value": [
             {

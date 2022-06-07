@@ -308,7 +308,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": ""
+                  "value": "unit_upgrade_sul\\unit_upgrade_sultanate"
                 },
                 {
                   "key": "$REF",
@@ -567,6 +567,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_textiles"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

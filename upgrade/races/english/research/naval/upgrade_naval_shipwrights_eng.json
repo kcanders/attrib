@@ -92,40 +92,6 @@
         {
           "key": "float_properties",
           "value": [
-            {
-              "key": "upgradebag_float_property",
-              "value": [
-                {
-                  "key": "$REF",
-                  "value": "upgradebag_float_property"
-                },
-                {
-                  "key": "value",
-                  "value": 0.9
-                },
-                {
-                  "key": "id",
-                  "value": "cost_wood"
-                }
-              ]
-            },
-            {
-              "key": "upgradebag_float_property",
-              "value": [
-                {
-                  "key": "$REF",
-                  "value": "upgradebag_float_property"
-                },
-                {
-                  "key": "value",
-                  "value": 0.9
-                },
-                {
-                  "key": "id",
-                  "value": "cost_gold"
-                }
-              ]
-            }
           ]
         },
         {
@@ -329,7 +295,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": ""
+                  "value": "upgrade_entity_naval\\upgrade_naval_shipwrights_eng"
                 },
                 {
                   "key": "$REF",
@@ -346,7 +312,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "upgrade_naval\\upgrade_naval_shipwrights_eng"
+                  "value": ""
                 },
                 {
                   "key": "$REF",
@@ -489,7 +455,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 10
+                      "value": 1
                     }
                   ]
                 }
@@ -594,6 +560,10 @@
             {
               "key": "apply_to_unit_classes",
               "value": [
+                {
+                  "key": "unit_class",
+                  "value": "ship"
+                }
               ]
             }
           ]
@@ -601,6 +571,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_admiralty_eng"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

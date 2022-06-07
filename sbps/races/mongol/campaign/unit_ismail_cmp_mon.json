@@ -59,11 +59,29 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
                               "key": "$PBGNAME",
                               "value": "2b68be0ca3f34580bb867f188bb77459:unit_great_trebuchet_cmp_mon"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
                             },
                             {
                               "key": "$PBGMAP",
@@ -92,6 +110,11 @@
                               "key": "ui_position_row",
                               "value": 2
                             }
+                          ]
+                        },
+                        {
+                          "key": "alternate_ebps",
+                          "value": [
                           ]
                         },
                         {
@@ -106,6 +129,19 @@
                               "value": ""
                             }
                           ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
                         }
                       ]
                     },
@@ -131,11 +167,29 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
                               "key": "$PBGNAME",
                               "value": "2b68be0ca3f34580bb867f188bb77459:unit_springald_3_field_construct_mon"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
                             },
                             {
                               "key": "$PBGMAP",
@@ -167,11 +221,29 @@
                           ]
                         },
                         {
+                          "key": "alternate_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
                           "key": "ebp",
                           "value": [
                             {
                               "key": "$PBGNAME",
                               "value": "2b68be0ca3f34580bb867f188bb77459:unit_trebuchet_4_cw_field_construct_mon"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "hotkey_binding",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
                             },
                             {
                               "key": "$PBGMAP",
@@ -1124,6 +1196,10 @@
               ]
             }
           ]
+        },
+        {
+          "key": "attack_move_command_requires_valid_range",
+          "value": true
         },
         {
           "key": "reaction_combat_delay_seconds",

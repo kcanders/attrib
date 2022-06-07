@@ -8,12 +8,40 @@
           "value": 11183865
         },
         {
+          "key": "is_ui_low_resources_filter_entry_dummy",
+          "value": false
+        },
+        {
+          "key": "include_in_low_resources_filter",
+          "value": false
+        },
+        {
+          "key": "use_for_filters",
+          "value": true
+        },
+        {
           "key": "icon",
+          "value": "fe\\map_characteristics\\choke_point_icon"
+        },
+        {
+          "key": "include_in_high_resources_filter",
+          "value": false
+        },
+        {
+          "key": "is_ui_high_resources_filter_entry_dummy",
+          "value": false
+        },
+        {
+          "key": "image",
           "value": "fe\\map_characteristics\\choke_point"
         },
         {
           "key": "description_tooltip",
           "value": 11183867
+        },
+        {
+          "key": "ui_priority",
+          "value": 0
         }
       ]
     },

@@ -137,7 +137,7 @@
           "value": [
             {
               "key": "speed_min",
-              "value": 50
+              "value": 20
             },
             {
               "key": "height_min",
@@ -145,7 +145,7 @@
             },
             {
               "key": "interpolate_distance_min",
-              "value": 20
+              "value": 10
             },
             {
               "key": "height_max",
@@ -153,7 +153,7 @@
             },
             {
               "key": "speed_max",
-              "value": 75
+              "value": 60
             },
             {
               "key": "min_distance_to_enable",

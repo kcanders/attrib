@@ -892,6 +892,19 @@
           "value": ""
         },
         {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "general_delete"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
+        },
+        {
           "key": "ability_category",
           "value": [
             {

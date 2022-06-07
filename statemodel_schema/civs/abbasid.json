@@ -1003,7 +1003,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 0.8
+                  "value": 1.25
                 },
                 {
                   "key": "$REF",

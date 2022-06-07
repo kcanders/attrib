@@ -1115,6 +1115,10 @@
           "value": 1
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1187,6 +1191,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1277,6 +1285,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "multi_entity_select"
         },
@@ -1336,6 +1348,23 @@
         {
           "key": "map_mark",
           "value": "CustomStructure"
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -2716,376 +2745,6 @@
                 {
                   "key": "weapon_table",
                   "value": [
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "possible_blueprint_updates",
-                          "value": [
-                          ]
-                        },
-                        {
-                          "key": "length",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\entity_create_attachment"
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": ""
-                            }
-                          ]
-                        },
-                        {
-                          "key": "entity_attach_data",
-                          "value": [
-                            {
-                              "key": "attachment_flags",
-                              "value": [
-                                {
-                                  "key": "assign_as_attachment_movement_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "receive_parent_animations",
-                                  "value": false
-                                },
-                                {
-                                  "key": "sim_only",
-                                  "value": false
-                                },
-                                {
-                                  "key": "assign_as_attachment_combat_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "restore_snap_to_ground_on_detach",
-                                  "value": false
-                                },
-                                {
-                                  "key": "join_parent_squad",
-                                  "value": false
-                                },
-                                {
-                                  "key": "redirect_damage_to_parent_entity",
-                                  "value": true
-                                },
-                                {
-                                  "key": "receive_parent_death",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_sim_update",
-                                  "value": false
-                                },
-                                {
-                                  "key": "not_snappable",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_pathfinding",
-                                  "value": false
-                                }
-                              ]
-                            },
-                            {
-                              "key": "attach_data",
-                              "value": [
-                                {
-                                  "key": "parent_rigidbody_target_name",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "game_object_attachment_type",
-                                  "value": 0
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "attachments\\attach_data"
-                                },
-                                {
-                                  "key": "marker_name_parent",
-                                  "value": ""
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data_entity"
-                            },
-                            {
-                              "key": "ebp",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": ""
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 10
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 0
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "base_marker",
-                  "value": ""
-                },
-                {
-                  "key": "receives_attack_commands",
-                  "value": true
-                },
-                {
-                  "key": "preferred_inventory_item_categories",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "parent_hardpoint",
-                  "value": -1
-                },
-                {
-                  "key": "offhand_marker",
-                  "value": ""
-                }
-              ]
-            },
-            {
-              "key": "hardpoint",
-              "value": [
-                {
-                  "key": "initialize_weapons_on_creation",
-                  "value": false
-                },
-                {
-                  "key": "firing_offset_markers",
-                  "value": [
-                    {
-                      "key": "marker",
-                      "value": "wep_hardpoint01"
-                    },
-                    {
-                      "key": "marker",
-                      "value": "wep_hardpoint02"
-                    },
-                    {
-                      "key": "marker",
-                      "value": "wep_hardpoint03"
-                    },
-                    {
-                      "key": "marker",
-                      "value": "wep_hardpoint04"
-                    }
-                  ]
-                },
-                {
-                  "key": "weapon_table",
-                  "value": [
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "possible_blueprint_updates",
-                          "value": [
-                          ]
-                        },
-                        {
-                          "key": "length",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\entity_create_attachment"
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": ""
-                            }
-                          ]
-                        },
-                        {
-                          "key": "entity_attach_data",
-                          "value": [
-                            {
-                              "key": "attachment_flags",
-                              "value": [
-                                {
-                                  "key": "assign_as_attachment_movement_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "receive_parent_animations",
-                                  "value": false
-                                },
-                                {
-                                  "key": "sim_only",
-                                  "value": false
-                                },
-                                {
-                                  "key": "assign_as_attachment_combat_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "restore_snap_to_ground_on_detach",
-                                  "value": false
-                                },
-                                {
-                                  "key": "join_parent_squad",
-                                  "value": false
-                                },
-                                {
-                                  "key": "redirect_damage_to_parent_entity",
-                                  "value": true
-                                },
-                                {
-                                  "key": "receive_parent_death",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_sim_update",
-                                  "value": false
-                                },
-                                {
-                                  "key": "not_snappable",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_pathfinding",
-                                  "value": false
-                                }
-                              ]
-                            },
-                            {
-                              "key": "attach_data",
-                              "value": [
-                                {
-                                  "key": "parent_rigidbody_target_name",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "game_object_attachment_type",
-                                  "value": 0
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "attachments\\attach_data"
-                                },
-                                {
-                                  "key": "marker_name_parent",
-                                  "value": ""
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data_entity"
-                            },
-                            {
-                              "key": "ebp",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": ""
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 10
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 0
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
                   ]
                 },
                 {
@@ -5337,7 +4996,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -5379,11 +5038,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -5415,7 +5074,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -5550,7 +5209,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -5592,11 +5251,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -5628,7 +5287,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -5763,7 +5422,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -5805,11 +5464,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -5841,7 +5500,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -5976,7 +5635,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -6018,11 +5677,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -6054,7 +5713,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -6189,7 +5848,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -6231,11 +5890,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -6267,7 +5926,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -6402,7 +6061,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -6444,11 +6103,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -6480,7 +6139,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -6615,7 +6274,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -6657,11 +6316,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -6693,7 +6352,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -6828,7 +6487,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -6870,11 +6529,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -6906,7 +6565,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -7041,7 +6700,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -7083,11 +6742,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -7119,7 +6778,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -7254,7 +6913,7 @@
                                 },
                                 {
                                   "key": "no_sim_update",
-                                  "value": false
+                                  "value": true
                                 },
                                 {
                                   "key": "not_snappable",
@@ -7296,11 +6955,11 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": ""
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
-                                  "value": ""
+                                  "value": "ebps"
                                 }
                               ]
                             }
@@ -7332,7 +6991,7 @@
                           "value": [
                             {
                               "key": "y",
-                              "value": 0
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -9217,6 +8876,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_villager"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -9332,6 +9004,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_scout"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             },
@@ -9447,6 +9132,19 @@
                 {
                   "key": "number_to_spawn",
                   "value": 1
+                },
+                {
+                  "key": "hotkey_binding",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "train_prelate"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "hotkeys\\hotkey_binding"
+                    }
+                  ]
                 }
               ]
             }
@@ -9463,6 +9161,10 @@
         {
           "key": "enforce_minimum_clearance_at_spawn_positions",
           "value": true
+        },
+        {
+          "key": "reset_production_progress_at_current_pop_cap",
+          "value": false
         },
         {
           "key": "$REF",

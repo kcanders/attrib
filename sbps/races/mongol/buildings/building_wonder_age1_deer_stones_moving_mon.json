@@ -701,6 +701,10 @@
           ]
         },
         {
+          "key": "attack_move_command_requires_valid_range",
+          "value": true
+        },
+        {
           "key": "reaction_combat_delay_seconds",
           "value": 30
         },
@@ -1005,10 +1009,6 @@
                       "value": "intersection"
                     },
                     {
-                      "key": "help_text",
-                      "value": 11189994
-                    },
-                    {
                       "key": "extra_icon",
                       "value": ""
                     },
@@ -1037,7 +1037,20 @@
                       "value": [
                         {
                           "key": "$REF",
-                          "value": ""
+                          "value": "ui_text_formatter"
+                        },
+                        {
+                          "key": "formatter",
+                          "value": 11226005
+                        },
+                        {
+                          "key": "formatter_arguments",
+                          "value": [
+                            {
+                              "key": "int_value",
+                              "value": 15
+                            }
+                          ]
                         }
                       ]
                     },

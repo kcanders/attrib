@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 2081452
+    },
+    {
+      "key": "hotkey_binding",
+      "value": [
+        {
+          "key": "ignore_alt",
+          "value": false
+        },
+        {
+          "key": "ui_prefix",
+          "value": 11226034
+        },
+        {
+          "key": "ignore_shift",
+          "value": false
+        },
+        {
+          "key": "user_remappable",
+          "value": true
+        },
+        {
+          "key": "combo_secondary",
+          "value": ""
+        },
+        {
+          "key": "combo_primary",
+          "value": "C"
+        },
+        {
+          "key": "significant",
+          "value": false
+        },
+        {
+          "key": "ui_name",
+          "value": 11157698
+        },
+        {
+          "key": "essential",
+          "value": true
+        },
+        {
+          "key": "ui_sort_priority",
+          "value": 6
+        },
+        {
+          "key": "allow_repeats",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

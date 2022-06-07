@@ -499,7 +499,7 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11182775
+                  "value": 11226955
                 },
                 {
                   "key": "formatter_arguments",
@@ -618,6 +618,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_tranquil_venue"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

@@ -810,6 +810,19 @@
           "value": ""
         },
         {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "buy_wood"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
+        },
+        {
           "key": "ability_category",
           "value": [
             {

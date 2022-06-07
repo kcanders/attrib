@@ -810,6 +810,19 @@
           "value": "khan_maneuver_signal_arrow_mongol"
         },
         {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "ability_signal_arrow_move_speed"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
+        },
+        {
           "key": "ability_category",
           "value": [
             {

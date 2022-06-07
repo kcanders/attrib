@@ -312,7 +312,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "common_upgrade_completion_events\\speech_celebrate\\celebrate"
+                  "value": "upgrade_incendiary_sul"
                 },
                 {
                   "key": "$REF",
@@ -485,7 +485,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 1350
+              "value": 1080
             },
             {
               "key": "cost",
@@ -587,6 +587,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_incendiary_arrows"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

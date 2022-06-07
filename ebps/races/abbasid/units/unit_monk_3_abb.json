@@ -1100,6 +1100,10 @@
           "value": 2
         },
         {
+          "key": "reticule_override_enabled",
+          "value": false
+        },
+        {
           "key": "extra_text_world_formatter",
           "value": [
             {
@@ -1168,6 +1172,10 @@
         {
           "key": "show_in_build_log",
           "value": true
+        },
+        {
+          "key": "reticule_override_size",
+          "value": 0
         },
         {
           "key": "selection_method",
@@ -1258,6 +1266,10 @@
           "value": -1
         },
         {
+          "key": "selection_obb_size_align_to_terrain",
+          "value": true
+        },
+        {
           "key": "selection_type",
           "value": "squad_select"
         },
@@ -1313,6 +1325,23 @@
         {
           "key": "map_mark",
           "value": ""
+        },
+        {
+          "key": "selection_obb_size_resource_ready",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
         },
         {
           "key": "skin_pack_override",
@@ -1379,7 +1408,7 @@
         },
         {
           "key": "ActionTree_OpeningBranch",
-          "value": "unit_entity"
+          "value": "unit_monk"
         },
         {
           "key": "$REF",
@@ -1731,7 +1760,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 45
+              "value": 30
             },
             {
               "key": "time_turns",

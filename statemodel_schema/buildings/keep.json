@@ -365,7 +365,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 1
+                  "value": 0
                 },
                 {
                   "key": "$REF",
@@ -382,7 +382,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 0
+                  "value": 1
                 },
                 {
                   "key": "$REF",

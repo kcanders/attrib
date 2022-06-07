@@ -328,7 +328,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11200345
+                  "value": 11225980
                 },
                 {
                   "key": "requirements",
@@ -405,7 +405,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11200346
+                  "value": 11225981
                 },
                 {
                   "key": "requirements",
@@ -482,7 +482,7 @@
               "value": [
                 {
                   "key": "help_text",
-                  "value": 11165015
+                  "value": 11225982
                 },
                 {
                   "key": "requirements",
@@ -1022,6 +1022,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "ability_category",

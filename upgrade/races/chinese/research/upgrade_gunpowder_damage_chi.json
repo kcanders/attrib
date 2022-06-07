@@ -34,7 +34,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 2
+              "value": 3
             },
             {
               "key": "ui_position_row",
@@ -97,7 +97,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 1.2
+                  "value": 6
                 },
                 {
                   "key": "id",
@@ -467,8 +467,8 @@
                   "key": "formatter_arguments",
                   "value": [
                     {
-                      "key": "int_value",
-                      "value": 20
+                      "key": "float_value",
+                      "value": 1.5
                     }
                   ]
                 }
@@ -498,7 +498,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 90
+              "value": 60
             },
             {
               "key": "cost",
@@ -513,7 +513,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 700
+                  "value": 350
                 },
                 {
                   "key": "militia_hre",
@@ -533,7 +533,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 150
+                  "value": 0
                 }
               ]
             }
@@ -575,7 +575,7 @@
               "value": [
                 {
                   "key": "unit_class",
-                  "value": "gunpowder"
+                  "value": "handcannon"
                 }
               ]
             }
@@ -584,6 +584,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_pyrotechnics_chi"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

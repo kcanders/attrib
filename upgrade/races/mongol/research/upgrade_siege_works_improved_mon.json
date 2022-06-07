@@ -8,7 +8,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "mon_improved_production_small"
+              "value": "mon_improved_production"
             },
             {
               "key": "$PBGMAP",
@@ -665,7 +665,7 @@
                     },
                     {
                       "key": "int_value",
-                      "value": 4
+                      "value": 15
                     },
                     {
                       "key": "int_value",
@@ -673,7 +673,7 @@
                     },
                     {
                       "key": "int_value",
-                      "value": 1
+                      "value": 5
                     }
                   ]
                 }
@@ -789,6 +789,19 @@
         {
           "key": "speech_code",
           "value": ""
+        },
+        {
+          "key": "hotkey_binding",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "tech_upgrade_siege_works_mon"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hotkeys\\hotkey_binding"
+            }
+          ]
         }
       ]
     },

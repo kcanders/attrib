@@ -1120,7 +1120,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "weapon_archer_incendiary"
+                                  "value": "weapon_elephant_archer_incendiary_sul"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -1210,7 +1210,7 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "weapon_crossbow_incendiary"
+                                  "value": "weapon_elephant_archer_crossbow_incendiary_sul"
                                 },
                                 {
                                   "key": "$PBGMAP",
